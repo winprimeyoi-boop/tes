@@ -1,0 +1,658 @@
+#EXTM3U
+#PLAYLIST:CCTV Jogjakarta
+
+# ========== BANGUNTAPAN ==========
+#EXTINF:-1 tvg-id="237" tvg-name="Simpang Gedongkuning (PTZ)" group-title="BANGUNTAPAN",Simpang Gedongkuning (PTZ) (BANGUNTAPAN)
+#EXTVLCOPT:meta-coordinates=-7.801731782919982,110.40140518577397
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Gedongkuning.stream/playlist.m3u8
+
+# ========== DANUREJAN ==========
+#EXTINF:-1 tvg-id="797" tvg-name="Jl. Mas Suharto V. Selatan (Depan LASERCOM)" group-title="DANUREJAN",Jl. Mas Suharto V. Selatan (Depan LASERCOM) (TEGALPANGGUNG)
+#EXTVLCOPT:meta-coordinates=-7.793199498598524,110.37106096471014
+https://cctvjss.jogjakota.go.id/tps-liar/S3_Jl_Mas Suharto-Jl_Tegalpanggung.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="798" tvg-name="Jl. Mas Suharto V. Utara (Barat Sari Wangi Parfum)" group-title="DANUREJAN",Jl. Mas Suharto V. Utara (Barat Sari Wangi Parfum) (TEGALPANGGUNG)
+#EXTVLCOPT:meta-coordinates=-7.793247236280253,110.3715920065371
+https://cctvjss.jogjakota.go.id/tps-liar/S3_Jl_Mas Suharto-Jl_Tukangan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="327" tvg-name="Malioboro_Utara_Inna_Malioboro" group-title="DANUREJAN",Malioboro_Utara_Inna_Malioboro (SURYATMAJAN)
+#EXTVLCOPT:meta-coordinates=-7.790198659966794,110.36624739289181
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_21_Utara_Inna_Malioboro.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="326" tvg-name="Malioboro_Utara_Mall" group-title="DANUREJAN",Malioboro_Utara_Mall (SURYATMAJAN)
+#EXTVLCOPT:meta-coordinates=-7.792597577285484,110.3659266942821
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_25_Utara_Mall.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="273" tvg-name="Simpang Bausasran (PTZ)" group-title="DANUREJAN",Simpang Bausasran (PTZ) (TEGALPANGGUNG)
+#EXTVLCOPT:meta-coordinates=-7.796832738009271,110.37259619466906
+https://cctvjss.jogjakota.go.id/atcs/ATCS_S4_Bausasran.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-name="Simpang Tunjung (PTZ)" group-title="DANUREJAN",Simpang Tunjung (PTZ) (BAUSASRAN)
+#EXTVLCOPT:meta-coordinates=-7.7937256793331935,110.37776112556459
+https://cctvjss.jogjakota.go.id/atcs/ATCS_tunjung.stream/playlist.m3u8
+
+# ========== DEPOK ==========
+#EXTINF:-1 tvg-id="227" tvg-name="Simpang DeBritto View Utara" group-title="DEPOK",Simpang DeBritto View Utara (CATUR TUNGGAL)
+#EXTVLCOPT:meta-coordinates=-7.783214903094468,110.39223968949956
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_DeBritto_View_Utara.stream/playlist.m3u8
+
+# ========== GEDONG TENGEN ==========
+#EXTINF:-1 tvg-id="331" tvg-name="Malioboro_Depan_BPD_Kepatihan" group-title="GEDONG TENGEN",Malioboro_Depan_BPD_Kepatihan (SOSROMENDURAN)
+#EXTVLCOPT:meta-coordinates=-7.795495525015239,110.3655543924231
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_23_Depan_BPD_Kepatihan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="89" tvg-name="Malioboro_Depan_DPRD" group-title="GEDONG TENGEN",Malioboro_Depan_DPRD (SOSROMENDURAN)
+#EXTVLCOPT:meta-coordinates=-7.79206216435044,110.36588966846467
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_4_Depan_DPRD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="Malioboro_Depan_Dispar" group-title="GEDONG TENGEN",Malioboro_Depan_Dispar (SOSROMENDURAN)
+#EXTVLCOPT:meta-coordinates=-7.794862859073506,110.36556255986987
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_3_Depan_Dispar.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="Malioboro_Depan_Toko_Subur" group-title="GEDONG TENGEN",Malioboro_Depan_Toko_Subur (SOSROMENDURAN)
+#EXTVLCOPT:meta-coordinates=-7.790940582024625,110.36598244705164
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_2_Depan_Toko_Subur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="153" tvg-name="Malioboro_Kepatihan" group-title="GEDONG TENGEN",Malioboro_Kepatihan (SOSROMENDURAN)
+#EXTVLCOPT:meta-coordinates=-7.795889821019304,110.3654040724604
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_10_Kepatihan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="93" tvg-name="Malioboro_Mall_Selatan" group-title="GEDONG TENGEN",Malioboro_Mall_Selatan (SOSROMENDURAN)
+#EXTVLCOPT:meta-coordinates=-7.795525296050228,110.365546752152
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_7_Mall_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="92" tvg-name="Malioboro_Mall_Utara" group-title="GEDONG TENGEN",Malioboro_Mall_Utara (SOSROMENDURAN)
+#EXTVLCOPT:meta-coordinates=-7.7928274661386405,110.36575199779577
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_6_Mall_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="152" tvg-name="Malioboro_Mutiara_Baru" group-title="GEDONG TENGEN",Malioboro_Mutiara_Baru (SOSROMENDURAN)
+#EXTVLCOPT:meta-coordinates=-7.795030980613941,110.36551831517565
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_9_Mutiara_Baru.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="151" tvg-name="Malioboro_Mutiara_Lama" group-title="GEDONG TENGEN",Malioboro_Mutiara_Lama (SOSROMENDURAN)
+#EXTVLCOPT:meta-coordinates=-7.794451656004724,110.36561806201635
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_8_Mutiara_Lama.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="91" tvg-name="Malioboro_Perwakilan" group-title="GEDONG TENGEN",Malioboro_Perwakilan (SOSROMENDURAN)
+#EXTVLCOPT:meta-coordinates=-7.792632688541971,110.36579812427252
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/playlist.m3u8
+
+# ========== GEDONGTENGEN ==========
+#EXTINF:-1 tvg-id="33" tvg-name="Malioboro_Selatan_Teteg" group-title="GEDONGTENGEN",Malioboro_Selatan_Teteg (SOSROMENDURAN)
+#EXTVLCOPT:meta-coordinates=-7.789968068779914,110.36602878685423
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_1_Selatan_Teteg.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Simpang Jlagran (PTZ)" group-title="GEDONGTENGEN",Simpang Jlagran (PTZ) (PRINGGOKUSUMAN)
+#EXTVLCOPT:meta-coordinates=-7.789037936569344,110.35751581511731
+https://cctvjss.jogjakota.go.id/atcs/ATCS_jlagran.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="Sungai Winongo" group-title="GEDONGTENGEN",Sungai Winongo (PRINGGOKUSUMAN)
+#EXTVLCOPT:meta-coordinates=-7.789489704931309,110.35666287355627
+https://cctvjss.jogjakota.go.id/bpbd/BPBD_kaliwinongo.stream/playlist.m3u8
+
+# ========== GONDOKUSUMAN ==========
+#EXTINF:-1 tvg-id="439" tvg-name="Jl. Ahmad Jazuli (Apotek K24)" group-title="GONDOKUSUMAN",Jl. Ahmad Jazuli (Apotek K24) (KOTABARU)
+#EXTVLCOPT:meta-coordinates=-7.789187005983453,110.36966623154613
+https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-Ahmad-Jazuli.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="441" tvg-name="Jl. F.M. Noto (Gardu ANIEM)" group-title="GONDOKUSUMAN",Jl. F.M. Noto (Gardu ANIEM) (KOTABARU)
+#EXTVLCOPT:meta-coordinates=-7.786832072162349,110.3721703274016
+https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-FM-Noto-Gardu-Aniem.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="444" tvg-name="Jl. F.M. Noto (McDonalds)" group-title="GONDOKUSUMAN",Jl. F.M. Noto (McDonalds) (KOTABARU)
+#EXTVLCOPT:meta-coordinates=-7.782968280627342,110.37137746947677
+https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-FM-Noto-McDonalds.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="440" tvg-name="Jl. F.M. Noto (Raminten)" group-title="GONDOKUSUMAN",Jl. F.M. Noto (Raminten) (KOTABARU)
+#EXTVLCOPT:meta-coordinates=-7.784987949669264,110.37159740924837
+https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-FM-Noto-Raminten.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="443" tvg-name="Jl. Juadi (Pojok Utara-Barat Telkom)" group-title="GONDOKUSUMAN",Jl. Juadi (Pojok Utara-Barat Telkom) (KOTABARU)
+#EXTVLCOPT:meta-coordinates=-7.785822400093772,110.37456929683687
+https://cctvjss.jogjakota.go.id/kotabaru/Jl-Juadi.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="434" tvg-name="Jl. Nyoman Oka (Gereja Kotabaru)" group-title="GONDOKUSUMAN",Jl. Nyoman Oka (Gereja Kotabaru) (KOTABARU)
+#EXTVLCOPT:meta-coordinates=-7.7878952261847605,110.37133456075773
+https://cctvjss.jogjakota.go.id/kotabaru/Jl-Nyoman-Oka.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="435" tvg-name="Jl. Sajiono (Roemi)" group-title="GONDOKUSUMAN",Jl. Sajiono (Roemi) (KOTABARU)
+#EXTVLCOPT:meta-coordinates=-7.785588723515335,110.37427424016906
+https://cctvjss.jogjakota.go.id/kotabaru/Jl-Sajiono.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="437" tvg-name="Jl. Wardhani (Selatan-Timur SMPN 5)" group-title="GONDOKUSUMAN",Jl. Wardhani (Selatan-Timur SMPN 5) (KOTABARU)
+#EXTVLCOPT:meta-coordinates=-7.787315924164162,110.3753846883774
+https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-Wardhani.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="436" tvg-name="Jl. Yos Sudarso (Mie Gacoan)" group-title="GONDOKUSUMAN",Jl. Yos Sudarso (Mie Gacoan) (KOTABARU)
+#EXTVLCOPT:meta-coordinates=-7.788155379820129,110.37492319976059
+https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-Yos-Sudarso.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="243" tvg-name="Pasar Demangan View Selatan" group-title="GONDOKUSUMAN",Pasar Demangan View Selatan (DEMANGAN)
+#EXTVLCOPT:meta-coordinates=-7.780939793541291,110.38817846406626
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Pasar_Demangan_View_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="195" tvg-name="RTHP Klitren 2" group-title="GONDOKUSUMAN",RTHP Klitren 2 (KLITREN)
+#EXTVLCOPT:meta-coordinates=-7.780754051505308,110.38661509752275
+https://cctvjss.jogjakota.go.id/rthp/rthp_klitren_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="Simpang APMD (PTZ)" group-title="GONDOKUSUMAN",Simpang APMD (PTZ) (BACIRO)
+#EXTVLCOPT:meta-coordinates=-7.791971853164589,110.39164423942567
+https://cctvjss.jogjakota.go.id/atcs/ATCS_apmd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="206" tvg-name="Simpang Demangan View Selatan" group-title="GONDOKUSUMAN",Simpang Demangan View Selatan (DEMANGAN)
+#EXTVLCOPT:meta-coordinates=-7.783214902770064,110.38801789316496
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="829" tvg-name="Simpang Demangan View Timur" group-title="GONDOKUSUMAN",Simpang Demangan View Timur (DEMANGAN)
+#EXTVLCOPT:meta-coordinates=-7.783069238806793,110.38786339750006
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="205" tvg-name="Simpang Demangan View Utara" group-title="GONDOKUSUMAN",Simpang Demangan View Utara (KLITREN)
+#EXTVLCOPT:meta-coordinates=-7.783007619231968,110.38771748542787
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="244" tvg-name="Simpang Galeria (PTZ)" group-title="GONDOKUSUMAN",Simpang Galeria (PTZ) (KOTABARU)
+#EXTVLCOPT:meta-coordinates=-7.78299465637002,110.37923132903515
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Galeria_TimurSelatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="248" tvg-name="Simpang Gramedia (PTZ)" group-title="GONDOKUSUMAN",Simpang Gramedia (PTZ) (KOTABARU)
+#EXTVLCOPT:meta-coordinates=-7.782861937761538,110.37481070364103
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Gramedia_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="856" tvg-name="Simpang Gramedia V. Timur" group-title="GONDOKUSUMAN",Simpang Gramedia V. Timur (KOTABARU)
+#EXTVLCOPT:meta-coordinates=-7.782808782374973,110.37478924071134
+https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Simpang-Gramedia-V-Timur_Ex-Jl-Prau.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="755" tvg-name="Simpang Gramedia V. Utara-Timur" group-title="GONDOKUSUMAN",Simpang Gramedia V. Utara-Timur (KOTABARU)
+#EXTVLCOPT:meta-coordinates=-7.782626407365178,110.3746614766573
+https://cctvjss.jogjakota.go.id/atcs/ATCS_gramedia.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="178" tvg-name="Simpang Mirota (PTZ)" group-title="GONDOKUSUMAN",Simpang Mirota (PTZ) (TERBAN)
+#EXTVLCOPT:meta-coordinates=-7.776092711190059,110.37438154220582
+https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="242" tvg-name="Simpang Terban View Barat" group-title="GONDOKUSUMAN",Simpang Terban View Barat (TERBAN)
+#EXTVLCOPT:meta-coordinates=-7.782829544640158,110.3723589567884
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Barat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="241" tvg-name="Simpang Terban View Timur" group-title="GONDOKUSUMAN",Simpang Terban View Timur (TERBAN)
+#EXTVLCOPT:meta-coordinates=-7.782840865073605,110.3721661078962
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Timur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="228" tvg-name="Simpang Terban View Utara" group-title="GONDOKUSUMAN",Simpang Terban View Utara (TERBAN)
+#EXTVLCOPT:meta-coordinates=-7.782782282285227,110.372273322723
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-name="Simpang UKDW (PTZ)" group-title="GONDOKUSUMAN",Simpang UKDW (PTZ) (KLITREN)
+#EXTVLCOPT:meta-coordinates=-7.787246808444076,110.37864159708089
+https://cctvjss.jogjakota.go.id/atcs/ATCS_ukdw.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="874" tvg-name="Utara-Timur Gardena (Jl. Urip Sumoharjo) V. Timur" group-title="GONDOKUSUMAN",Utara-Timur Gardena (Jl. Urip Sumoharjo) V. Timur (KLITREN)
+#EXTVLCOPT:meta-coordinates=-7.782819433845128,110.38124797149439
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Utara-Timur_Gardena_Jl_Urip Sumoharjo_V_Timur.stream/playlist.m3u8
+
+# ========== GONDOMANAN ==========
+#EXTINF:-1 tvg-id="356" tvg-name="Jl. KH. Ahmad Dahlan V. Barat (Barat Kospin Jasa)" group-title="GONDOMANAN",Jl. KH. Ahmad Dahlan V. Barat (Barat Kospin Jasa) (NGUPASAN)
+#EXTVLCOPT:meta-coordinates=-7.801145161108437,110.36099732195676
+https://cctvjss.jogjakota.go.id/tps-liar/S3_Nyai_Ahmad_Dahlan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="94" tvg-name="Malioboro_Pasar_Beringharjo" group-title="GONDOMANAN",Malioboro_Pasar_Beringharjo (NGUPASAN)
+#EXTVLCOPT:meta-coordinates=-7.798719615928482,110.36497885251785
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="236" tvg-name="Malioboro_Simpang_Reksobayan" group-title="GONDOMANAN",Malioboro_Simpang_Reksobayan (NGUPASAN)
+#EXTVLCOPT:meta-coordinates=-7.799709820932644,110.3648718633361
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="247" tvg-name="Nol Km. - Gd. Agung" group-title="GONDOMANAN",Nol Km. - Gd. Agung (NGUPASAN)
+#EXTVLCOPT:meta-coordinates=-7.801025084854278,110.36494553089143
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="245" tvg-name="Nol Km. - Utara" group-title="GONDOMANAN",Nol Km. - Utara (NGUPASAN)
+#EXTVLCOPT:meta-coordinates=-7.801235516577087,110.36492407321931
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="Simpang Gondomanan (PTZ)" group-title="GONDOMANAN",Simpang Gondomanan (PTZ) (PRAWIRODIRJAN)
+#EXTVLCOPT:meta-coordinates=-7.801683039634787,110.36917244417295
+https://cctvjss.jogjakota.go.id/atcs/ATCS_gondomanan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="147" tvg-name="Simpang Ibu Ruswo (PTZ)" group-title="GONDOMANAN",Simpang Ibu Ruswo (PTZ) (PRAWIRODIRJAN)
+#EXTVLCOPT:meta-coordinates=-7.803446455001373,110.36923706531525
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="Simpang KM Nol (PTZ)" group-title="GONDOMANAN",Simpang KM Nol (PTZ) (NGUPASAN)
+#EXTVLCOPT:meta-coordinates=-7.8010758219105565,110.36475215767108
+https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="Simpang PKU Muh. (PTZ)" group-title="GONDOMANAN",Simpang PKU Muh. (PTZ) (NGUPASAN)
+#EXTVLCOPT:meta-coordinates=-7.801283,110.362061
+https://cctvjss.jogjakota.go.id/atcs/ATCS_pkumuh.stream/playlist.m3u8
+
+# ========== JETIS ==========
+#EXTINF:-1 tvg-id="160" tvg-name="Simpang Kiai Mojo 1 (Barat)" group-title="JETIS",Simpang Kiai Mojo 1 (Barat) (BUMIJO)
+#EXTVLCOPT:meta-coordinates=-7.7827290840714,110.35790740623065
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="161" tvg-name="Simpang Kiai Mojo 2 (Timur)" group-title="JETIS",Simpang Kiai Mojo 2 (Timur) (BUMIJO)
+#EXTVLCOPT:meta-coordinates=-7.782686735299533,110.35799326837432
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="163" tvg-name="Simpang Pingit 1 - Jl.Tentara Pelajar" group-title="JETIS",Simpang Pingit 1 - Jl.Tentara Pelajar (BUMIJO)
+#EXTVLCOPT:meta-coordinates=-7.78273439372399,110.3606539964676
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="164" tvg-name="Simpang Pingit 2 - Jl. Tentara Pelajar" group-title="JETIS",Simpang Pingit 2 - Jl. Tentara Pelajar (BUMIJO)
+#EXTVLCOPT:meta-coordinates=-7.782906599809257,110.36073178052905
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="165" tvg-name="Simpang Pingit 3 - Jl. Tentara Pelajar" group-title="JETIS",Simpang Pingit 3 - Jl. Tentara Pelajar (BUMIJO)
+#EXTVLCOPT:meta-coordinates=-7.782989513873122,110.36065936088563
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="177" tvg-name="Simpang Pingit 4 - Jl. Tentara Pelajar" group-title="JETIS",Simpang Pingit 4 - Jl. Tentara Pelajar (BUMIJO)
+#EXTVLCOPT:meta-coordinates=-7.782895969804031,110.36082565784456
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="275" tvg-name="Simpang Pingit 5 (PTZ)" group-title="JETIS",Simpang Pingit 5 (PTZ) (BUMIJO)
+#EXTVLCOPT:meta-coordinates=-7.782213605984465,110.3593021631241
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="251" tvg-name="Simpang Tugu (PTZ)" group-title="JETIS",Simpang Tugu (PTZ) (GOWONGAN)
+#EXTVLCOPT:meta-coordinates=-7.782902141139962,110.36697879463897
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Tugu.stream/playlist.m3u8
+
+# ========== KOTAGEDE ==========
+#EXTINF:-1 tvg-id="839" tvg-name="RTHP Bumen" group-title="KOTAGEDE",RTHP Bumen (PURBAYAN)
+#EXTVLCOPT:meta-coordinates=-7.826495827309985,110.40351567737893
+https://cctvjss.jogjakota.go.id/rthp/rthp_bumen.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="362" tvg-name="Simpang Basen" group-title="KOTAGEDE",Simpang Basen (PRENGGAN)
+#EXTVLCOPT:meta-coordinates=-7.820469226095182,110.40082275730018
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Basen.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="232" tvg-name="Simpang Rejowinangun View Timur" group-title="KOTAGEDE",Simpang Rejowinangun View Timur (REJOWINANGUN)
+#EXTVLCOPT:meta-coordinates=-7.8107084889395955,110.40206193956693
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Rejowinangun_View_Timur.stream/playlist.m3u8
+
+# ========== KRATON ==========
+#EXTINF:-1 tvg-id="10" tvg-name="Simpang Jokteng Wetan" group-title="KRATON",Simpang Jokteng Wetan (PANEMBAHAN)
+#EXTVLCOPT:meta-coordinates=-7.814380894891082,110.36806762218477
+https://cctvjss.jogjakota.go.id/atcs/ATCS_joktengwetan.stream/playlist.m3u8
+
+# ========== MANTRIJERON ==========
+#EXTINF:-1 tvg-id="795" tvg-name="Jl. MT. Haryono V. Barat (Barat Hotel Ashtary)" group-title="MANTRIJERON",Jl. MT. Haryono V. Barat (Barat Hotel Ashtary) (SURYODININGRATAN)
+#EXTVLCOPT:meta-coordinates=-7.813475239283661,110.35969376837551
+https://cctvjss.jogjakota.go.id/tps-liar/Jalan_MT_Haryono.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="450" tvg-name="KemMJ-Jalan Selatan Kemantren" group-title="MANTRIJERON",KemMJ-Jalan Selatan Kemantren (SURYODININGRATAN)
+#EXTVLCOPT:meta-coordinates=-7.820772059437312,110.36169728101575
+https://cctvjss.jogjakota.go.id/kecamatan/KemMJ-JalanSelatanKemantren.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="449" tvg-name="KemMJ-Pendopo Kemantren" group-title="MANTRIJERON",KemMJ-Pendopo Kemantren (SURYODININGRATAN)
+#EXTVLCOPT:meta-coordinates=-7.820833794284509,110.36169744788464
+https://cctvjss.jogjakota.go.id/kecamatan/KemMJ-PendopoKemantren.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="448" tvg-name="KemMJ-Timur Kemantren" group-title="MANTRIJERON",KemMJ-Timur Kemantren (SURYODININGRATAN)
+#EXTVLCOPT:meta-coordinates=-7.820748744333765,110.3617836916383
+https://cctvjss.jogjakota.go.id/kecamatan/KemMJ-TimurKemantren.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Simpang Jokteng Kulon (PTZ)" group-title="MANTRIJERON",Simpang Jokteng Kulon (PTZ) (GEDONGKIWO)
+#EXTVLCOPT:meta-coordinates=-7.81294,110.35594
+https://cctvjss.jogjakota.go.id/atcs/ATCS_joktengkulon.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="172" tvg-name="Simpang Pasar Gading 1 (Timur)" group-title="MANTRIJERON",Simpang Pasar Gading 1 (Timur) (MANTRIJERON)
+#EXTVLCOPT:meta-coordinates=-7.8139588927123365,110.36288023131759
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_PasarGading1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="173" tvg-name="Simpang Pasar Gading 2 (Barat)" group-title="MANTRIJERON",Simpang Pasar Gading 2 (Barat) (MANTRIJERON)
+#EXTVLCOPT:meta-coordinates=-7.813985428289541,110.36279439652623
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_PasarGading2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="179" tvg-name="Simpang Taman Sari (PTZ)" group-title="MANTRIJERON",Simpang Taman Sari (PTZ) (GEDONGKIWO)
+#EXTVLCOPT:meta-coordinates=-7.808656995329348,110.35600572824481
+https://cctvjss.jogjakota.go.id/atcs/ATCS_tamansari.stream/playlist.m3u8
+
+# ========== MERGANGSAN ==========
+#EXTINF:-1 tvg-id="198" tvg-name="RTHP Brontokusuman (blkg Kel) 1" group-title="MERGANGSAN",RTHP Brontokusuman (blkg Kel) 1 (BRONTOKUSUMAN)
+#EXTVLCOPT:meta-coordinates=-7.8229788155132445,110.36958709709043
+https://cctvjss.jogjakota.go.id/rthp/rthp_brontokusuman_blkgKel_1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="199" tvg-name="RTHP Brontokusuman (blkg Kel) 2" group-title="MERGANGSAN",RTHP Brontokusuman (blkg Kel) 2 (BRONTOKUSUMAN)
+#EXTVLCOPT:meta-coordinates=-7.823094663198694,110.36960304501743
+https://cctvjss.jogjakota.go.id/rthp/rthp_brontokusuman_blkgKel_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="157" tvg-name="Simpang Jogokariyan V. Selatan" group-title="MERGANGSAN",Simpang Jogokariyan V. Selatan (BRONTOKUSUMAN)
+#EXTVLCOPT:meta-coordinates=-7.8246771495840735,110.36772693747565
+https://cctvjss.jogjakota.go.id/atcs/ATCS_jogokaryan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="851" tvg-name="Simpang Karang Tunggal (PTZ)" group-title="MERGANGSAN",Simpang Karang Tunggal (PTZ) (KEPARAKAN)
+#EXTVLCOPT:meta-coordinates=-7.8150373446692845,110.37301361697585
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Karang_Tunggal_PTZ.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="169" tvg-name="Simpang Karang Tunggal (S3 Jl. Kol.Sugiyono - Jl. Sisingamangaraja) 1" group-title="MERGANGSAN",Simpang Karang Tunggal (S3 Jl. Kol.Sugiyono - Jl. Sisingamangaraja) 1 (BRONTOKUSUMAN)
+#EXTVLCOPT:meta-coordinates=-7.815185853586888,110.37321213463336
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SopMerah1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="170" tvg-name="Simpang Karang Tunggal (S3 Jl. Kol.Sugiyono - Jl. Sisingamangaraja) 2" group-title="MERGANGSAN",Simpang Karang Tunggal (S3 Jl. Kol.Sugiyono - Jl. Sisingamangaraja) 2 (BRONTOKUSUMAN)
+#EXTVLCOPT:meta-coordinates=-7.815170621589384,110.37314236437618
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SopMerah2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="873" tvg-name="Simpang Mantrigawen (PTZ)" group-title="MERGANGSAN",Simpang Mantrigawen (PTZ) (KEPARAKAN)
+#EXTVLCOPT:meta-coordinates=-7.8089628315616855,110.36901700929627
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Mantrigawen_PTZ.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="850" tvg-name="Simpang Pasar Telo (PTZ)" group-title="MERGANGSAN",Simpang Pasar Telo (PTZ) (BRONTOKUSUMAN)
+#EXTVLCOPT:meta-coordinates=-7.823812428983515,110.37315298653814
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Pasar_Telo_PTZ.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-name="Simpang Tungkak (PTZ)" group-title="MERGANGSAN",Simpang Tungkak (PTZ) (WIROGUNAN)
+#EXTVLCOPT:meta-coordinates=-7.815638294774954,110.37609279155733
+https://cctvjss.jogjakota.go.id/atcs/ATCS_tungkak.stream/playlist.m3u8
+
+# ========== NGAGLIK ==========
+#EXTINF:-1 tvg-id="31" tvg-name="Sungai Ngentak" group-title="NGAGLIK",Sungai Ngentak (SINDUHARJO)
+#EXTVLCOPT:meta-coordinates=-7.722645179146617,110.38926337561489
+https://cctvjss.jogjakota.go.id/bpbd/BPBD_ngentak.stream/playlist.m3u8
+
+# ========== NGAMPILAN ==========
+#EXTINF:-1 tvg-id="872" tvg-name="KemNG-Wahid Hasyim V. Selatan" group-title="NGAMPILAN",KemNG-Wahid Hasyim V. Selatan (NOTOPRAJAN)
+#EXTVLCOPT:meta-coordinates=-7.806013467391323,110.35599769952718
+https://cctvjss.jogjakota.go.id/kecamatan/KemNG-Wahid_Hasyim_V_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="871" tvg-name="KemNG-Wahid Hasyim V. Utara" group-title="NGAMPILAN",KemNG-Wahid Hasyim V. Utara (NOTOPRAJAN)
+#EXTVLCOPT:meta-coordinates=-7.805907173205893,110.35600304173751
+https://cctvjss.jogjakota.go.id/kecamatan/KemNG-Wahid_Hasyim_V_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="176" tvg-name="Parkiran Ngabean" group-title="NGAMPILAN",Parkiran Ngabean (NGAMPILAN)
+#EXTVLCOPT:meta-coordinates=-7.801304669900324,110.3562392409939
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Parkiran_Ngabean.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="523" tvg-name="Simpang Letjen Suprapto-KS. Tubun V. Selatan" group-title="NGAMPILAN",Simpang Letjen Suprapto-KS. Tubun V. Selatan (NGAMPILAN)
+#EXTVLCOPT:meta-coordinates=-7.797387530558577,110.35645371629705
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Letjen_Suprapto_KS_Tubun_View_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="524" tvg-name="Simpang Letjen Suprapto-KS. Tubun V. Utara" group-title="NGAMPILAN",Simpang Letjen Suprapto-KS. Tubun V. Utara (NGAMPILAN)
+#EXTVLCOPT:meta-coordinates=-7.797292136759732,110.356416259686
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Letjen_Suprapto_KS_Tubun_View_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="Simpang Serangan (PTZ)" group-title="NGAMPILAN",Simpang Serangan (PTZ) (NGAMPILAN)
+#EXTVLCOPT:meta-coordinates=-7.800627191909387,110.35540228552313
+https://cctvjss.jogjakota.go.id/atcs/ATCS_serangan.stream/playlist.m3u8
+
+# ========== PAKUALAMAN ==========
+#EXTINF:-1 tvg-id="196" tvg-name="RTHP Gunungketur 1" group-title="PAKUALAMAN",RTHP Gunungketur 1 (PURWO KINANTI)
+#EXTVLCOPT:meta-coordinates=-7.798514511635184,110.37587821483612
+https://cctvjss.jogjakota.go.id/rthp/rthp_gunungketur_1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="197" tvg-name="RTHP Gunungketur 2" group-title="PAKUALAMAN",RTHP Gunungketur 2 (GUNUNG KETUR)
+#EXTVLCOPT:meta-coordinates=-7.799409389904506,110.37850946122491
+https://cctvjss.jogjakota.go.id/rthp/rthp_gunungketur_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="Simpang Gayam (PTZ)" group-title="PAKUALAMAN",Simpang Gayam (PTZ) (GUNUNG KETUR)
+#EXTVLCOPT:meta-coordinates=-7.797301,110.377627
+https://cctvjss.jogjakota.go.id/atcs/ATCS_gayam.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="Simpang Permata (PTZ)" group-title="PAKUALAMAN",Simpang Permata (PTZ) (GUNUNG KETUR)
+#EXTVLCOPT:meta-coordinates=-7.8015437731163875,110.37307262420656
+https://cctvjss.jogjakota.go.id/atcs/ATCS_permata.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-name="Simpang Sentul (PTZ)" group-title="PAKUALAMAN",Simpang Sentul (PTZ) (GUNUNGKETUR)
+#EXTVLCOPT:meta-coordinates=-7.801442745827733,110.3779435343926
+https://cctvjss.jogjakota.go.id/atcs/ATCS_sentul.stream/playlist.m3u8
+
+# ========== TEGALREJO ==========
+#EXTINF:-1 tvg-id="201" tvg-name="RTHP Segoro Amarto Tegalrejo 2" group-title="TEGALREJO",RTHP Segoro Amarto Tegalrejo 2 (TEGALREJO)
+#EXTVLCOPT:meta-coordinates=-7.790451792570068,110.34968912601472
+https://cctvjss.jogjakota.go.id/rthp/rthp_segoro_amarto_tegalrejo_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="148" tvg-name="Simpang BPK (PTZ)" group-title="TEGALREJO",Simpang BPK (PTZ) (TEGALREJO)
+#EXTVLCOPT:meta-coordinates=-7.790786548521135,110.35380363464357
+https://cctvjss.jogjakota.go.id/atcs/ATCS_bpk.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="250" tvg-name="Simpang Borobudur Plaza" group-title="TEGALREJO",Simpang Borobudur Plaza (KRICAK)
+#EXTVLCOPT:meta-coordinates=-7.778378226441675,110.36105632814726
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Borobudur_Plaza.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="249" tvg-name="Simpang Jati Kencana (PTZ)" group-title="TEGALREJO",Simpang Jati Kencana (PTZ) (TEGALREJO)
+#EXTVLCOPT:meta-coordinates=-7.781720077527172,110.35258206065863
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_JatiKencana.stream/playlist.m3u8
+
+# ========== UMBULHARJO ==========
+#EXTINF:-1 tvg-id="844" tvg-name="Depan DPRD Pos Security" group-title="UMBULHARJO",Depan DPRD Pos Security (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.7970634121194955,110.39233624524866
+https://cctvjss.jogjakota.go.id/dprd-kota/depan-dprd-pos-security.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="843" tvg-name="Depan DPRD V. Selatan" group-title="UMBULHARJO",Depan DPRD V. Selatan (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.797154524077225,110.3924489076006
+https://cctvjss.jogjakota.go.id/dprd-kota/depan-dprd-v-selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="842" tvg-name="Depan DPRD V. Utara" group-title="UMBULHARJO",Depan DPRD V. Utara (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.7969677292407225,110.39246499264898
+https://cctvjss.jogjakota.go.id/dprd-kota/depan-dprd-v-utara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="323" tvg-name="Gerbang Masuk Utara V. Timur (Luar)" group-title="UMBULHARJO",Gerbang Masuk Utara V. Timur (Luar) (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.7992572546386425,110.39085832343332
+https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Gerbang_Masuk_Utara_View_Timur-Luar.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="325" tvg-name="Gerbang Timur PKK V. Selatan (Luar)" group-title="UMBULHARJO",Gerbang Timur PKK V. Selatan (Luar) (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.800517942197907,110.39217695404965
+https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Gerbang_Timur_PKK_View_Selatan-Luar.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="324" tvg-name="Gerbang Timur PKK V. Utara (Luar)" group-title="UMBULHARJO",Gerbang Timur PKK V. Utara (Luar) (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.800351051058131,110.39218530969853
+https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Gerbang_Timur_PKK_View_Utara-Luar.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="796" tvg-name="Jl. Kenari V. Barat (Timur SMKN 6)" group-title="UMBULHARJO",Jl. Kenari V. Barat (Timur SMKN 6) (SEMAKI)
+#EXTVLCOPT:meta-coordinates=-7.797260049816141,110.38263737471559
+https://cctvjss.jogjakota.go.id/tps-liar/Jalan_Kenari.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="520" tvg-name="RTHP Gajah Wong Edu Park 1" group-title="UMBULHARJO",RTHP Gajah Wong Edu Park 1 (PANDEYAN)
+#EXTVLCOPT:meta-coordinates=-7.8174877026184175,110.39348434351206
+https://cctvjss.jogjakota.go.id/rthp/rthp_gajahwong_edupark_1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="519" tvg-name="RTHP Gajah Wong Edu Park 2" group-title="UMBULHARJO",RTHP Gajah Wong Edu Park 2 (PANDEYAN)
+#EXTVLCOPT:meta-coordinates=-7.81751438246716,110.39358079113731
+https://cctvjss.jogjakota.go.id/rthp/rthp_gajahwong_edupark_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="518" tvg-name="RTHP Gajah Wong Edu Park 3" group-title="UMBULHARJO",RTHP Gajah Wong Edu Park 3 (PANDEYAN)
+#EXTVLCOPT:meta-coordinates=-7.817672502802456,110.3935052560747
+https://cctvjss.jogjakota.go.id/rthp/rthp_gajahwong_edupark_3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="180" tvg-name="RTHP Semaki  1" group-title="UMBULHARJO",RTHP Semaki  1 (SEMAKI)
+#EXTVLCOPT:meta-coordinates=-7.801009107286565,110.38486361503602
+https://cctvjss.jogjakota.go.id/rthp/rthp_semaki_1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="181" tvg-name="RTHP Semaki 2" group-title="UMBULHARJO",RTHP Semaki 2 (SEMAKI)
+#EXTVLCOPT:meta-coordinates=-7.800863445056773,110.38476164953087
+https://cctvjss.jogjakota.go.id/rthp/rthp_semaki_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="159" tvg-name="Simpang APPI - JL.Mentri Supeno" group-title="UMBULHARJO",Simpang APPI - JL.Mentri Supeno (PANDEYAN)
+#EXTVLCOPT:meta-coordinates=-7.81616527748688,110.38318996932517
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="168" tvg-name="Simpang APPI 2 - Jl.Mentri Supeno" group-title="UMBULHARJO",Simpang APPI 2 - Jl.Mentri Supeno (PANDEYAN)
+#EXTVLCOPT:meta-coordinates=-7.816740538562657,110.384139418602
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="204" tvg-name="Simpang Amongrogo View Timur" group-title="UMBULHARJO",Simpang Amongrogo View Timur (SEMAKI)
+#EXTVLCOPT:meta-coordinates=-7.797400394268464,110.38367271423341
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="233" tvg-name="Simpang Balaikota View Timur" group-title="UMBULHARJO",Simpang Balaikota View Timur (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.79952415717506,110.3923523426056
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="234" tvg-name="Simpang Balaikota View Utara-Barat" group-title="UMBULHARJO",Simpang Balaikota View Utara-Barat (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.799623974573921,110.3922959120451
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Timur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="Simpang Cendana (PTZ)" group-title="UMBULHARJO",Simpang Cendana (PTZ) (SEMAKI)
+#EXTVLCOPT:meta-coordinates=-7.801676647596209,110.38416623749504
+https://cctvjss.jogjakota.go.id/atcs/ATCS_cendana.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="166" tvg-name="Simpang Gambiran 1 - Jl.Veteran" group-title="UMBULHARJO",Simpang Gambiran 1 - Jl.Veteran (PANDEYAN)
+#EXTVLCOPT:meta-coordinates=-7.81438617624503,110.39168715476991
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Gambiran1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="167" tvg-name="Simpang Gambiran 2 - Jl.Veteran" group-title="UMBULHARJO",Simpang Gambiran 2 - Jl.Veteran (PANDEYAN)
+#EXTVLCOPT:meta-coordinates=-7.81440743465494,110.39164423942567
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Gambiran2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="130" tvg-name="Simpang Glagahsari" group-title="UMBULHARJO",Simpang Glagahsari (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.802046545043447,110.38908192757836
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Glagahsari.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="525" tvg-name="Simpang Glagahsari (PTZ)" group-title="UMBULHARJO",Simpang Glagahsari (PTZ) (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.801783237222689,110.38907480148295
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Glagahsari_PTZ.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="129" tvg-name="Simpang UST (PTZ)" group-title="UMBULHARJO",Simpang UST (PTZ) (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.80196464259207,110.39198555588979
+https://cctvjss.jogjakota.go.id/atcs/ATCS_UST.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="Sungai Gajah Wong 2" group-title="UMBULHARJO",Sungai Gajah Wong 2 (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.790914106163658,110.39598405361177
+https://cctvjss.jogjakota.go.id/bpbd/BPBD_gajahwong2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="846" tvg-name="Utara Balaikota V. Gerbang Masuk" group-title="UMBULHARJO",Utara Balaikota V. Gerbang Masuk (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.798992774009821,110.39079091812917
+https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Utara_Balkot_V_Gerbang_Masuk.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="845" tvg-name="Utara Balaikota V. Timur" group-title="UMBULHARJO",Utara Balaikota V. Timur (MUJA MUJU)
+#EXTVLCOPT:meta-coordinates=-7.799024314922985,110.39092001016887
+https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Utara_Balkot_V_Timur.stream/playlist.m3u8
+
+# ========== UNKNOWN ==========
+#EXTINF:-1 tvg-id="476" tvg-name="Kleringan (Jl. Abu Bakar Ali)" group-title="UNKNOWN",Kleringan (Jl. Abu Bakar Ali)
+#EXTVLCOPT:meta-coordinates=-7.790545147867464,110.36885461349216
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Kleringan_Abu_Bakar_Ali.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="246" tvg-name="Nol Km. - Timur" group-title="UNKNOWN",Nol Km. - Timur
+#EXTVLCOPT:meta-coordinates=-7.801309214472623,110.36493122211407
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_Timur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="429" tvg-name="Optic Tugu" group-title="UNKNOWN",Optic Tugu
+#EXTVLCOPT:meta-coordinates=-7.787608577,110.36636285723944
+https://cctvjss.jogjakota.go.id/margo-utomo/Optic-Tugu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="430" tvg-name="Selatan Olive" group-title="UNKNOWN",Selatan Olive
+#EXTVLCOPT:meta-coordinates=-7.786747557411913,110.36645328866635
+https://cctvjss.jogjakota.go.id/margo-utomo/Selatan-Olive.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="431" tvg-name="Selatan Tugu" group-title="UNKNOWN",Selatan Tugu
+#EXTVLCOPT:meta-coordinates=-7.783625896047373,110.36684213112976
+https://cctvjss.jogjakota.go.id/margo-utomo/Toko-Cat-Wahyu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="370" tvg-name="Simpang Atmosukarto (PTZ)" group-title="UNKNOWN",Simpang Atmosukarto (PTZ)
+#EXTVLCOPT:meta-coordinates=-7.7882638773187205,110.37832799636712
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Atmosukarto.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="360" tvg-name="Simpang Balaikota (PTZ)" group-title="UNKNOWN",Simpang Balaikota (PTZ)
+#EXTVLCOPT:meta-coordinates=-7.799677125324242,110.39226912295878
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_PTZ.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="207" tvg-name="Simpang Demangan View Timur" group-title="UNKNOWN",Simpang Demangan View Timur
+#EXTVLCOPT:meta-coordinates=-7.783107508322567,110.38792029309523
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="399" tvg-name="Simpang Gambiran View Barat" group-title="UNKNOWN",Simpang Gambiran View Barat
+#EXTVLCOPT:meta-coordinates=-7.8180180722047075,110.39069870536835
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Gambiran_View_Barat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="398" tvg-name="Simpang Gambiran View Timur" group-title="UNKNOWN",Simpang Gambiran View Timur
+#EXTVLCOPT:meta-coordinates=-7.8179756585404165,110.39079264444666
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Gambiran_View_Timur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="371" tvg-name="Simpang Gondomanan View Selatan" group-title="UNKNOWN",Simpang Gondomanan View Selatan
+#EXTVLCOPT:meta-coordinates=-7.801558557399664,110.36928258570043
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Gondomanan_View_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="477" tvg-name="Simpang Jogokariyan V. Utara" group-title="UNKNOWN",Simpang Jogokariyan V. Utara
+#EXTVLCOPT:meta-coordinates=-7.824631710782664,110.36762394240893
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Jogokariyan_View_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="171" tvg-name="Simpang Jokteng Wetan - Jl. Parangtritis (PTZ)" group-title="UNKNOWN",Simpang Jokteng Wetan - Jl. Parangtritis (PTZ)
+#EXTVLCOPT:meta-coordinates=-7.814580608924652,110.36834641369498
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JoktengWetan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="361" tvg-name="Simpang Mandala Krida (PTZ)" group-title="UNKNOWN",Simpang Mandala Krida (PTZ)
+#EXTVLCOPT:meta-coordinates=-7.797693605585319,110.38498739881717
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Mandala_Krida_PTZ.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="368" tvg-name="Simpang Melia Purosani (PTZ)" group-title="UNKNOWN",Simpang Melia Purosani (PTZ)
+#EXTVLCOPT:meta-coordinates=-7.796728568306433,110.36910532920628
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Melia_Purosani.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="396" tvg-name="Simpang Pasar Telo View Selatan" group-title="UNKNOWN",Simpang Pasar Telo View Selatan
+#EXTVLCOPT:meta-coordinates=-7.824088403798951,110.3732416032892
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Pasar_Telo_View_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="397" tvg-name="Simpang Pasar Telo View Utara" group-title="UNKNOWN",Simpang Pasar Telo View Utara
+#EXTVLCOPT:meta-coordinates=-7.824001180644657,110.37327834764065
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Pasar_Telo_View_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="369" tvg-name="Simpang Patangpuluhan (PTZ)" group-title="UNKNOWN",Simpang Patangpuluhan (PTZ)
+#EXTVLCOPT:meta-coordinates=-7.807857732704685,110.35038569683671
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Patangpuluhan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="468" tvg-name="Simpang Wirosaban View Barat" group-title="UNKNOWN",Simpang Wirosaban View Barat
+#EXTVLCOPT:meta-coordinates=-7.824814092616581,110.37839209141384
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Wirosaban_View_Barat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="466" tvg-name="Simpang Wirosaban View Selatan" group-title="UNKNOWN",Simpang Wirosaban View Selatan
+#EXTVLCOPT:meta-coordinates=-7.824866474885708,110.37848308768241
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Wirosaban_View_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="469" tvg-name="Simpang Wirosaban View Timur" group-title="UNKNOWN",Simpang Wirosaban View Timur
+#EXTVLCOPT:meta-coordinates=-7.824866474885708,110.37848308768241
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Wirosaban_View_Timur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="467" tvg-name="Simpang Wirosaban View Utara" group-title="UNKNOWN",Simpang Wirosaban View Utara
+#EXTVLCOPT:meta-coordinates=-7.824731313079836,110.37841048372135
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Wirosaban_View_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="428" tvg-name="Utara Jl. Gowongan Lor" group-title="UNKNOWN",Utara Jl. Gowongan Lor
+#EXTVLCOPT:meta-coordinates=-7.785469840304706,110.36664542890458
+https://cctvjss.jogjakota.go.id/margo-utomo/Gowongan-Lor.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="433" tvg-name="Utara Teteg" group-title="UNKNOWN",Utara Teteg
+#EXTVLCOPT:meta-coordinates=-7.7895208908900795,110.36612212388583
+https://cctvjss.jogjakota.go.id/margo-utomo/Wisma-Ratih.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="432" tvg-name="Wijaya Baru Travel" group-title="UNKNOWN",Wijaya Baru Travel
+#EXTVLCOPT:meta-coordinates=-7.786227400840768,110.36651088816471
+https://cctvjss.jogjakota.go.id/margo-utomo/Wijaya-Baru-Travel.stream/playlist.m3u8
+
+# ========== WIROBRAJAN ==========
+#EXTINF:-1 tvg-id="818" tvg-name="RTHP Jopraban 1" group-title="WIROBRAJAN",RTHP Jopraban 1 (WIROBRAJAN)
+#EXTVLCOPT:meta-coordinates=-7.802723670902581,110.35152911182564
+https://cctvjss.jogjakota.go.id/rthp/rthp_jopraban_1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="817" tvg-name="RTHP Jopraban 2" group-title="WIROBRAJAN",RTHP Jopraban 2 (WIROBRAJAN)
+#EXTVLCOPT:meta-coordinates=-7.802782095695886,110.35160417812001
+https://cctvjss.jogjakota.go.id/rthp/rthp_jopraban_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="816" tvg-name="RTHP Jopraban 3" group-title="WIROBRAJAN",RTHP Jopraban 3 (WIROBRAJAN)
+#EXTVLCOPT:meta-coordinates=-7.802782052880773,110.35166856344493
+https://cctvjss.jogjakota.go.id/rthp/rthp_jopraban_3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="202" tvg-name="RTHP Pakudaya Pakuncen 1" group-title="WIROBRAJAN",RTHP Pakudaya Pakuncen 1 (PAKUNCEN)
+#EXTVLCOPT:meta-coordinates=-7.797903142588836,110.35138428211214
+https://cctvjss.jogjakota.go.id/rthp/rthp_pakudaya_pakuncen_1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="203" tvg-name="RTHP Pakudaya Pakuncen 2" group-title="WIROBRAJAN",RTHP Pakudaya Pakuncen 2 (PAKUNCEN)
+#EXTVLCOPT:meta-coordinates=-7.797937190603234,110.35135745969455
+https://cctvjss.jogjakota.go.id/rthp/rthp_pakudaya_pakuncen_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="174" tvg-name="Simpang Sugeng Jeroni 1 - Jl.Sugeng Jeroni" group-title="WIROBRAJAN",Simpang Sugeng Jeroni 1 - Jl.Sugeng Jeroni (PATANGPULUHAN)
+#EXTVLCOPT:meta-coordinates=-7.81196271042108,110.34950673580171
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SugengJeroni1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="175" tvg-name="Simpang Sugeng Jeroni 2 - Jl.Sugeng Jeroni" group-title="WIROBRAJAN",Simpang Sugeng Jeroni 2 - Jl.Sugeng Jeroni (PATANGPULUHAN)
+#EXTVLCOPT:meta-coordinates=-7.811930822619116,110.34948527812959
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SugengJeroni2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-name="Simpang Wirobrajan (PTZ)" group-title="WIROBRAJAN",Simpang Wirobrajan (PTZ) (WIROBRAJAN)
+#EXTVLCOPT:meta-coordinates=-7.801025054502792,110.35178123104426
+https://cctvjss.jogjakota.go.id/atcs/ATCS_wirobrajan.stream/playlist.m3u8
+

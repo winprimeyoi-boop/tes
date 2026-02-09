@@ -1,0 +1,1073 @@
+#EXTM3U
+#PLAYLIST:CCTV Jogja Provinsi
+
+# ========== ATCS_KOTA ==========
+#EXTINF:-1 tvg-id="6a6c9d22-5e22-49a1-998e-6228025d5139" tvg-name="APMD" group-title="ATCS_KOTA",APMD
+https://mam.jogjaprov.go.id:1937/atcs-kota/APMD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c0ca61f7-4aa0-4b89-a025-b619dff7a6bf" tvg-name="AhmadJazuli" group-title="ATCS_KOTA",AhmadJazuli
+https://mam.jogjaprov.go.id:1937/atcs-kota/AhmadJazuli.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7ddea894-ae19-4e69-94de-c070624c4db2" tvg-name="BPK" group-title="ATCS_KOTA",BPK
+https://mam.jogjaprov.go.id:1937/atcs-kota/BPK.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d179e9f1-f391-4a1e-83d5-3f387efe9f15" tvg-name="Bandara2" group-title="ATCS_KOTA",Bandara2
+https://mam.jogjaprov.go.id:1937/atcs/Bandara2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="620b523c-3f3a-4354-8229-f1f427537b52" tvg-name="BandaraBarat" group-title="ATCS_KOTA",BandaraBarat
+https://mam.jogjaprov.go.id:1937/atcs/BandaraBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cd59e1c9-f014-44d9-ae12-d50ede49eb53" tvg-name="BandaraSelatan" group-title="ATCS_KOTA",BandaraSelatan
+https://mam.jogjaprov.go.id:1937/atcs/BandaraSelatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8ee386ca-56b8-4ff2-94d8-9db54560535d" tvg-name="BandaraTimur" group-title="ATCS_KOTA",BandaraTimur
+https://mam.jogjaprov.go.id:1937/atcs/BandaraTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="79e436f5-c6de-4f47-8bd5-c38d58b0efdc" tvg-name="Bantulan" group-title="ATCS_KOTA",Bantulan
+https://mam.jogjaprov.go.id:1937/atcs/Bantulan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3202796c-a990-40a0-b3c0-b6eb63a0f3b5" tvg-name="Beran" group-title="ATCS_KOTA",Beran
+https://mam.jogjaprov.go.id:1937/atcs/Beran.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4693f873-d386-49a5-b519-8946dbfc7d2f" tvg-name="Besi" group-title="ATCS_KOTA",Besi
+https://mam.jogjaprov.go.id:1937/atcs/Besi.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e5882909-32a4-4274-bd58-259fd26fbe38" tvg-name="BlokO" group-title="ATCS_KOTA",BlokO
+https://mam.jogjaprov.go.id:1937/atcs/BlokO.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9bf9780d-6748-4060-8f76-b4ce7a039613" tvg-name="BlokOSelatan" group-title="ATCS_KOTA",BlokOSelatan
+https://mam.jogjaprov.go.id:1937/atcs/BlokOSelatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4a37e544-1390-48de-b000-1594cab4c652" tvg-name="Cendana" group-title="ATCS_KOTA",Cendana
+https://mam.jogjaprov.go.id:1937/atcs-kota/Cendana.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="59408eb9-f487-4fb0-85fa-d6c12bdd46ba" tvg-name="Condongcatur2" group-title="ATCS_KOTA",Condongcatur2
+https://mam.jogjaprov.go.id:1937/atcs/Condongcatur2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ea894a4c-9463-4822-bd96-3cf10f2b00c0" tvg-name="DemakIjo1" group-title="ATCS_KOTA",DemakIjo1
+https://mam.jogjaprov.go.id:1937/atcs/DemakIjo1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aa776403-3538-4783-9275-f351aac80df8" tvg-name="DemakIjo2" group-title="ATCS_KOTA",DemakIjo2
+https://mam.jogjaprov.go.id:1937/atcs/DemakIjo2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d0e7bf53-ebce-4f94-9d4c-de897e47684a" tvg-name="Demangan" group-title="ATCS_KOTA",Demangan
+https://mam.jogjaprov.go.id:1937/atcs-kota/Demangan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5bc6c5aa-1b44-4131-b300-c0c54329c0b1" tvg-name="DemenGlagah_TC" group-title="ATCS_KOTA",DemenGlagah_TC
+https://mam.jogjaprov.go.id:1937/atcs/DemenGlagah_TC.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="781188f3-150f-411d-b6fd-5f9146d88116" tvg-name="Dongkelan2" group-title="ATCS_KOTA",Dongkelan2
+https://mam.jogjaprov.go.id:1937/atcs/Dongkelan2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="26adf5b8-f7df-4bcb-8251-16635c967772" tvg-name="DongkelanBarat" group-title="ATCS_KOTA",DongkelanBarat
+https://mam.jogjaprov.go.id:1937/atcs/DongkelanBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="08ea9719-650c-4679-bd11-8fb4a5fbc5b7" tvg-name="Druwo" group-title="ATCS_KOTA",Druwo
+https://mam.jogjaprov.go.id:1937/atcs/Druwo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bfe6ed2b-6b86-4f99-9302-8818957f9a96" tvg-name="FMNoto" group-title="ATCS_KOTA",FMNoto
+https://mam.jogjaprov.go.id:1937/atcs-kota/FMNoto.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="efca05eb-63cb-4c36-bfbd-14d649cf26f2" tvg-name="Gamping" group-title="ATCS_KOTA",Gamping
+https://mam.jogjaprov.go.id:1937/atcs/Gamping.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aef5be27-d62b-49cd-b5b7-aaf18700bcac" tvg-name="Gayam" group-title="ATCS_KOTA",Gayam
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gayam.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1a400349-012c-46fd-a94d-4b21489a3213" tvg-name="Gedongkuning" group-title="ATCS_KOTA",Gedongkuning
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gedongkuning.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ecde4a38-9c52-4496-a4b1-7e902f15dad2" tvg-name="Giwangan" group-title="ATCS_KOTA",Giwangan
+https://mam.jogjaprov.go.id:1937/atcs/Giwangan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e5effeaf-5ac6-4d35-b295-af8bc344a189" tvg-name="Giwangan1" group-title="ATCS_KOTA",Giwangan1
+https://mam.jogjaprov.go.id:1937/atcs/Giwangan1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="649427b8-3664-413d-bed3-c7a21b78782f" tvg-name="Giwangan2" group-title="ATCS_KOTA",Giwangan2
+https://mam.jogjaprov.go.id:1937/atcs/Giwangan2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ff703b9d-8845-4293-8336-bfce84b2d6a4" tvg-name="Glagah" group-title="ATCS_KOTA",Glagah
+https://mam.jogjaprov.go.id:1937/atcs/Glagah.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="284c63e8-9efe-4c16-ac09-233e891f4320" tvg-name="GlagahBarat" group-title="ATCS_KOTA",GlagahBarat
+https://mam.jogjaprov.go.id:1937/atcs/GlagahBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d5d66c6f-fec7-4cd2-b59d-a488a2e105b4" tvg-name="GlagahTimur" group-title="ATCS_KOTA",GlagahTimur
+https://mam.jogjaprov.go.id:1937/atcs/GlagahTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6f85c5ab-f817-4344-b5a6-4513c512c1f2" tvg-name="Gondomanan" group-title="ATCS_KOTA",Gondomanan
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gondomanan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7433bd5e-a38a-43d1-8969-04a669214276" tvg-name="Gramedia" group-title="ATCS_KOTA",Gramedia
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gramedia.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="68d46de5-7d17-4f41-a8b9-6868ed1425b1" tvg-name="Gramedia1" group-title="ATCS_KOTA",Gramedia1
+https://mam.jogjaprov.go.id:1937/atcs/Gramedia1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a5f03553-f008-4bf4-8aa2-d41da9dbcc4b" tvg-name="Gramedia2" group-title="ATCS_KOTA",Gramedia2
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gramedia2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8db8e7f7-c859-4563-b68e-9d0058b91232" tvg-name="IbuRuswo" group-title="ATCS_KOTA",IbuRuswo
+https://mam.jogjaprov.go.id:1937/atcs-kota/IbuRuswo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4cf5cfff-61ae-4180-9eab-53e132516fae" tvg-name="Janti" group-title="ATCS_KOTA",Janti
+https://mam.jogjaprov.go.id:1937/atcs/Janti.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="96460eae-dfff-44b6-8625-613cd71ec705" tvg-name="JatiKencana" group-title="ATCS_KOTA",JatiKencana
+https://mam.jogjaprov.go.id:1937/atcs/JatiKencana.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fbcc9479-ad65-480a-8e01-e77e5e2071cd" tvg-name="JatiKencanaBarat" group-title="ATCS_KOTA",JatiKencanaBarat
+https://mam.jogjaprov.go.id:1937/atcs/JatiKencanaBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a6bc03c9-a893-45ca-9572-6821d1a0d70a" tvg-name="Jejeran" group-title="ATCS_KOTA",Jejeran
+https://mam.jogjaprov.go.id:1937/atcs/Jejeran.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2e825f1b-5cec-4ed6-80b2-3bf0c5048fca" tvg-name="Jetis" group-title="ATCS_KOTA",Jetis
+https://mam.jogjaprov.go.id:1937/atcs-kota/Jetis.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d89ff690-2284-4c8f-939c-69bcb1200559" tvg-name="Jlagran" group-title="ATCS_KOTA",Jlagran
+https://mam.jogjaprov.go.id:1937/atcs-kota/Jlagran.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8c9442e2-340c-489e-ba08-7f0493274a37" tvg-name="JoktengKulon" group-title="ATCS_KOTA",JoktengKulon
+https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengKulon.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="628cb8d6-e92f-4ddf-8acd-5bafff361c23" tvg-name="JoktengWetan" group-title="ATCS_KOTA",JoktengWetan
+https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengWetan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="929532b9-3bf4-41c2-9738-89c18a84e602" tvg-name="Juadi" group-title="ATCS_KOTA",Juadi
+https://mam.jogjaprov.go.id:1937/atcs-kota/Juadi.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9e2dd199-dd10-4466-a510-896d67477698" tvg-name="KMNol" group-title="ATCS_KOTA",KMNol
+https://mam.jogjaprov.go.id:1937/atcs-kota/KMNol.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d74a8d5b-b26f-4cf1-9646-b34960d95e49" tvg-name="Kasihan" group-title="ATCS_KOTA",Kasihan
+https://mam.jogjaprov.go.id:1937/atcs/Kasihan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e7c3fdcf-ccf6-43d1-9485-834d0dfab54f" tvg-name="KetandanBarat" group-title="ATCS_KOTA",KetandanBarat
+https://mam.jogjaprov.go.id:1937/atcs/KetandanBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="51d70dab-4a66-4687-a06b-929ff123b6f5" tvg-name="KidsFun" group-title="ATCS_KOTA",KidsFun
+https://mam.jogjaprov.go.id:1937/atcs/KidsFun.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8b55675c-2966-4302-bb65-8f5903561ee0" tvg-name="Kleringan" group-title="ATCS_KOTA",Kleringan
+https://mam.jogjaprov.go.id:1937/atcs-kota/Kleringan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fdba4293-bfd9-40b3-a859-225a70b02bbd" tvg-name="Kleringan1" group-title="ATCS_KOTA",Kleringan1
+https://mam.jogjaprov.go.id:1937/atcs/Kleringan1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dd002309-614d-4218-82d4-bee8cf0486af" tvg-name="Kleringan3" group-title="ATCS_KOTA",Kleringan3
+https://mam.jogjaprov.go.id:1937/atcs/Kleringan3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d210b686-a108-483d-b3d9-7acce2cf9b80" tvg-name="KotaGede" group-title="ATCS_KOTA",KotaGede
+https://mam.jogjaprov.go.id:1937/atcs/KotaGede.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16d1c6b4-a7e9-4fec-942f-700968f7b8bd" tvg-name="Kronggahan" group-title="ATCS_KOTA",Kronggahan
+https://mam.jogjaprov.go.id:1937/atcs/Kronggahan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="064b835b-1911-4cdf-8277-2c9bf35cb2f8" tvg-name="KyaiMojo1" group-title="ATCS_KOTA",KyaiMojo1
+https://mam.jogjaprov.go.id:1937/atcs-kota/KyaiMojo1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9bd5658f-aa74-4f96-831e-5e7947a3a4b1" tvg-name="MaduKismo" group-title="ATCS_KOTA",MaduKismo
+https://mam.jogjaprov.go.id:1937/atcs/MaduKismo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d0c42e55-6c74-49b0-8626-ea39ef475d31" tvg-name="Maguwo2" group-title="ATCS_KOTA",Maguwo2
+https://mam.jogjaprov.go.id:1937/atcs/Maguwo2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3aaff02d-034a-4e0d-a185-f2ed55ab9ec2" tvg-name="MaguwoBarat" group-title="ATCS_KOTA",MaguwoBarat
+https://mam.jogjaprov.go.id:1937/atcs/MaguwoBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dbcaed7a-7bb3-4449-b59c-194d26533536" tvg-name="MaguwoTimur" group-title="ATCS_KOTA",MaguwoTimur
+https://mam.jogjaprov.go.id:1937/atcs/MaguwoTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2831edc2-9f06-4eec-aa57-57744ac3b6b6" tvg-name="Manding" group-title="ATCS_KOTA",Manding
+https://mam.jogjaprov.go.id:1937/atcs/Manding.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="968eeb0d-a104-4911-8a31-05e411be2941" tvg-name="MargoUtomo_GowonganLor" group-title="ATCS_KOTA",MargoUtomo_GowonganLor
+https://mam.jogjaprov.go.id:1937/atcs-kota/MargoUtomo_GowonganLor.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5b89a7ed-639c-4152-b6e8-0d717244b3c1" tvg-name="MargoUtomo_OpticTugu" group-title="ATCS_KOTA",MargoUtomo_OpticTugu
+https://mam.jogjaprov.go.id:1937/atcs-kota/MargoUtomo_OpticTugu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bbda8f26-ddc0-4090-8ac0-ded78324d83f" tvg-name="MargoUtomo_SelatanOlive" group-title="ATCS_KOTA",MargoUtomo_SelatanOlive
+https://mam.jogjaprov.go.id:1937/atcs-kota/MargoUtomo_SelatanOlive.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9cbb15a4-7f68-486c-89eb-426762085ce4" tvg-name="MargoUtomo_TokoCatWahyu" group-title="ATCS_KOTA",MargoUtomo_TokoCatWahyu
+https://mam.jogjaprov.go.id:1937/atcs-kota/MargoUtomo_TokoCatWahyu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="103dced7-88eb-4491-a75b-560027aa7c41" tvg-name="MargoUtomo_WijayaBaruTravel" group-title="ATCS_KOTA",MargoUtomo_WijayaBaruTravel
+https://mam.jogjaprov.go.id:1937/atcs-kota/MargoUtomo_WijayaBaruTravel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="535b835a-1d55-4486-8a43-7fee21e49b39" tvg-name="MargoUtomo_WismaRatih" group-title="ATCS_KOTA",MargoUtomo_WismaRatih
+https://mam.jogjaprov.go.id:1937/atcs-kota/MargoUtomo_WismaRatih.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c79402a8-36e6-4192-beae-3e60500f2fa8" tvg-name="Melia" group-title="ATCS_KOTA",Melia
+https://mam.jogjaprov.go.id:1937/atcs/Melia.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a64e9a68-416f-48d7-a722-da3d14dad2ae" tvg-name="MirotaKampus" group-title="ATCS_KOTA",MirotaKampus
+https://mam.jogjaprov.go.id:1937/atcs-kota/MirotaKampus.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5ad3bb36-828d-4021-9e56-14e65c85bd87" tvg-name="Ngasem" group-title="ATCS_KOTA",Ngasem
+https://mam.jogjaprov.go.id:1937/atcs/Ngasem.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="f9acd6c8-2297-4ecb-a4d9-efa9eacac23b" tvg-name="PKUMuh" group-title="ATCS_KOTA",PKUMuh
+https://mam.jogjaprov.go.id:1937/atcs-kota/PKUMuh.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="65c33ae8-5dfd-423f-9179-2d22ae81add5" tvg-name="Palbapang" group-title="ATCS_KOTA",Palbapang
+https://mam.jogjaprov.go.id:1937/atcs/Palbapang.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2d701294-6cfd-4ff6-a470-46190c8774b0" tvg-name="ParkiranNgabean" group-title="ATCS_KOTA",ParkiranNgabean
+https://mam.jogjaprov.go.id:1937/atcs-kota/ParkiranNgabean.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="af4b8572-f6df-4633-9a71-da160880d084" tvg-name="PasarDemangan" group-title="ATCS_KOTA",PasarDemangan
+https://mam.jogjaprov.go.id:1937/atcs-kota/PasarDemangan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="75c91a04-8ca9-432d-95a4-615543143139" tvg-name="Patran" group-title="ATCS_KOTA",Patran
+https://mam.jogjaprov.go.id:1937/atcs/Patran.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8d7d2c3d-b453-447e-991d-26825e2aba5d" tvg-name="Pedes" group-title="ATCS_KOTA",Pedes
+https://mam.jogjaprov.go.id:1937/atcs/Pedes.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="31979261-e8ab-4601-b42a-9e9f35e7550f" tvg-name="PedesTimur" group-title="ATCS_KOTA",PedesTimur
+https://mam.jogjaprov.go.id:1937/atcs/PedesTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7631deec-7293-46f0-9950-3203477325ac" tvg-name="Pelemgurih" group-title="ATCS_KOTA",Pelemgurih
+https://mam.jogjaprov.go.id:1937/atcs/Pelemgurih.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="f067840c-885a-4fb4-9439-cb139b9d0d64" tvg-name="Pelemgurih1" group-title="ATCS_KOTA",Pelemgurih1
+https://mam.jogjaprov.go.id:1937/atcs/Pelemgurih1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a9803b9a-0b9c-4004-830c-4d518f97d7db" tvg-name="Permata" group-title="ATCS_KOTA",Permata
+https://mam.jogjaprov.go.id:1937/atcs-kota/Permata.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="25a7e92f-7f8c-44c6-a43c-3fd64752cf42" tvg-name="Pingit" group-title="ATCS_KOTA",Pingit
+https://mam.jogjaprov.go.id:1937/atcs-kota/Pingit.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4fdac721-c063-4c1c-bd92-4cda39052daa" tvg-name="Piyungan" group-title="ATCS_KOTA",Piyungan
+https://mam.jogjaprov.go.id:1937/atcs/Piyungan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e4e359e4-98e9-4e6c-9238-9809bb058ff1" tvg-name="Piyungan_TC" group-title="ATCS_KOTA",Piyungan_TC
+https://mam.jogjaprov.go.id:1937/atcs/Piyungan_TC.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d260f24e-c8ea-4d58-b0fe-938896a7506c" tvg-name="Pogung" group-title="ATCS_KOTA",Pogung
+https://mam.jogjaprov.go.id:1937/atcs/Pogung.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fb4b8621-3c25-4b52-8daf-42442e22a1de" tvg-name="Prambanan_TC" group-title="ATCS_KOTA",Prambanan_TC
+https://mam.jogjaprov.go.id:1937/atcs/Prambanan_TC.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="68182c95-0ce7-45ea-9f48-983d2c48352d" tvg-name="ProlimanBogem" group-title="ATCS_KOTA",ProlimanBogem
+https://mam.jogjaprov.go.id:1937/atcs/ProlimanBogem.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="54d362df-7821-47c2-a82a-69aeccdb7efd" tvg-name="Sajiono" group-title="ATCS_KOTA",Sajiono
+https://mam.jogjaprov.go.id:1937/atcs-kota/Sajiono.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1836800e-f0bf-4919-97a3-bc1adbe890b3" tvg-name="Sedayu" group-title="ATCS_KOTA",Sedayu
+https://mam.jogjaprov.go.id:1937/atcs/Sedayu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cafc52b1-54f6-44ff-8a66-21f3ef3fdd5c" tvg-name="SedayuTengah" group-title="ATCS_KOTA",SedayuTengah
+https://mam.jogjaprov.go.id:1937/atcs/SedayuTengah.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="f6d0797f-e38d-493a-a30c-b020ff8ba565" tvg-name="SelokanMataram" group-title="ATCS_KOTA",SelokanMataram
+https://mam.jogjaprov.go.id:1937/atcs/SelokanMataram.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8a444777-6009-4708-bef9-ac02a7daad67" tvg-name="Sentul" group-title="ATCS_KOTA",Sentul
+https://mam.jogjaprov.go.id:1937/atcs-kota/Sentul.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d319387f-6ab2-4bcd-a312-b0fadaee132a" tvg-name="Serangan" group-title="ATCS_KOTA",Serangan
+https://mam.jogjaprov.go.id:1937/atcs-kota/Serangan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="35aca9d2-c99d-4403-aa83-2f3fd1a6deca" tvg-name="Siluwok" group-title="ATCS_KOTA",Siluwok
+https://mam.jogjaprov.go.id:1937/atcs/Siluwok.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a62fd3c4-047c-4847-a079-6ad7ed200275" tvg-name="SiluwokTimur" group-title="ATCS_KOTA",SiluwokTimur
+https://mam.jogjaprov.go.id:1937/atcs/SiluwokTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="663e32b6-b996-4faf-9524-396825dd2170" tvg-name="SimpangAmongrogoTimur" group-title="ATCS_KOTA",SimpangAmongrogoTimur
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangAmongrogoTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="be037722-07b6-4d00-ba92-6b841d343356" tvg-name="SimpangAtmosukarto" group-title="ATCS_KOTA",SimpangAtmosukarto
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangAtmosukarto.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a817bcfe-3a45-4375-95bc-efc82fa1961a" tvg-name="SimpangBalaikota" group-title="ATCS_KOTA",SimpangBalaikota
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikota.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ce12e813-38e2-419b-a943-9833a18d8e63" tvg-name="SimpangBalaikotaBarat" group-title="ATCS_KOTA",SimpangBalaikotaBarat
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikotaBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="793ee600-4ff5-4146-9a38-c86f50145c7f" tvg-name="SimpangBalaikotaTimur" group-title="ATCS_KOTA",SimpangBalaikotaTimur
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikotaTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="62c82bae-0f87-4bff-bfe9-c204853012e6" tvg-name="SimpangBausasran" group-title="ATCS_KOTA",SimpangBausasran
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBausasran.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="70cc25eb-6ea8-40a8-862d-f33ea9270a72" tvg-name="SimpangBorobudurPlaza" group-title="ATCS_KOTA",SimpangBorobudurPlaza
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBorobudurPlaza.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2dac7f89-30e8-4117-abe6-fb7bba4a9838" tvg-name="SimpangDeBritto" group-title="ATCS_KOTA",SimpangDeBritto
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangDeBritto.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c8504263-988b-4c77-af32-75048e9d81da" tvg-name="SimpangDemanganSelatan" group-title="ATCS_KOTA",SimpangDemanganSelatan
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangDemanganSelatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0df1cb9d-d0e1-4f10-b579-9ac39a5fb920" tvg-name="SimpangDemanganTimur" group-title="ATCS_KOTA",SimpangDemanganTimur
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangDemanganTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b161615a-54ac-406e-80b8-690abec05a6e" tvg-name="SimpangDemanganUtara" group-title="ATCS_KOTA",SimpangDemanganUtara
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangDemanganUtara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c80e0888-4dd9-408e-a66b-1fe6088b6892" tvg-name="SimpangGaleriaTImurSelatan" group-title="ATCS_KOTA",SimpangGaleriaTImurSelatan
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangGaleriaTImurSelatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="19294bfd-83d3-40d3-a0fc-f9e463d73ea0" tvg-name="SimpangGambiranBarat" group-title="ATCS_KOTA",SimpangGambiranBarat
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangGambiranBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b155b299-c7d8-4818-ba46-40a092d6a7e6" tvg-name="SimpangGambiranTimur" group-title="ATCS_KOTA",SimpangGambiranTimur
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangGambiranTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3d05ebea-5706-44dd-be53-1c4e5003dbdd" tvg-name="SimpangGondomananSelatan" group-title="ATCS_KOTA",SimpangGondomananSelatan
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangGondomananSelatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61c32570-6199-47bc-b5f0-d709fc4fc647" tvg-name="SimpangJatikencana" group-title="ATCS_KOTA",SimpangJatikencana
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangJatikencana.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3e28aefa-acde-41b0-871f-3586fc9c3043" tvg-name="SimpangMelia" group-title="ATCS_KOTA",SimpangMelia
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangMelia.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b8148725-b292-40b4-889d-d1fb8bd35b43" tvg-name="SimpangPasarTeloSelatan" group-title="ATCS_KOTA",SimpangPasarTeloSelatan
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangPasarTeloSelatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="f0aefb1f-839c-4534-9e2b-fbe4068cb6b5" tvg-name="SimpangPasarTeloUtara" group-title="ATCS_KOTA",SimpangPasarTeloUtara
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangPasarTeloUtara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e491ee63-62f9-43de-9c17-57fbc74aa18b" tvg-name="SimpangPatangpuluhan" group-title="ATCS_KOTA",SimpangPatangpuluhan
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangPatangpuluhan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="f82a87cb-170d-40a7-9388-47f7972a27d9" tvg-name="SimpangRejowinangunTimur" group-title="ATCS_KOTA",SimpangRejowinangunTimur
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangRejowinangunTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1c7f5d0e-166f-40d7-b1ab-035b784c1ade" tvg-name="SimpangSGM" group-title="ATCS_KOTA",SimpangSGM
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangSGM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="84229881-7dca-48fa-9cca-28a9cea2d2e5" tvg-name="SimpangTerbanBarat" group-title="ATCS_KOTA",SimpangTerbanBarat
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangTerbanBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ade7261b-40ed-47b0-bb58-63059d908695" tvg-name="SimpangTerbanTimur" group-title="ATCS_KOTA",SimpangTerbanTimur
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangTerbanTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="288b378e-b009-420c-ad5f-75d9b0fa837c" tvg-name="SimpangTerbanUtara" group-title="ATCS_KOTA",SimpangTerbanUtara
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangTerbanUtara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bb31f169-9a52-4b1d-995c-a9615d33c90a" tvg-name="SimpangTugu" group-title="ATCS_KOTA",SimpangTugu
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangTugu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="562fe98e-3918-49e1-8896-2aafc80bbce1" tvg-name="Simpang_KolSugiono1" group-title="ATCS_KOTA",Simpang_KolSugiono1
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="591583dc-e46b-46bf-beba-40011e3ec484" tvg-name="Simpang_KolSugiono2" group-title="ATCS_KOTA",Simpang_KolSugiono2
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c7628cbd-31d8-4ec9-b821-b4e3dd8202b8" tvg-name="Simpang_MenteriSupeno1" group-title="ATCS_KOTA",Simpang_MenteriSupeno1
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_MenteriSupeno1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2a0f38d4-578a-407f-bbb5-324cd5c24e0c" tvg-name="Simpang_MenteriSupeno2" group-title="ATCS_KOTA",Simpang_MenteriSupeno2
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_MenteriSupeno2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="838ca2c3-312a-49b9-800e-9e53737e6ebd" tvg-name="Simpang_PasarGading2" group-title="ATCS_KOTA",Simpang_PasarGading2
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e7c7b89b-3e24-4a63-a22d-dae23282442c" tvg-name="Simpang_Pingit1" group-title="ATCS_KOTA",Simpang_Pingit1
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9420f45d-2173-4236-8d58-9a0fcff31012" tvg-name="Simpang_Pingit2" group-title="ATCS_KOTA",Simpang_Pingit2
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="af109bd1-398f-4c9f-95c7-594e2434cdee" tvg-name="Simpang_Pingit3" group-title="ATCS_KOTA",Simpang_Pingit3
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7840eb54-1679-4796-a4d3-1b196cef94ee" tvg-name="Simpang_Pingit4" group-title="ATCS_KOTA",Simpang_Pingit4
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4c012e3d-0a1f-4e37-86a7-6edee52ac2ac" tvg-name="Simpang_SugengJeroni1" group-title="ATCS_KOTA",Simpang_SugengJeroni1
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b2c549d5-4b02-472a-8666-85ae22549ea7" tvg-name="Simpang_SugengJeroni2" group-title="ATCS_KOTA",Simpang_SugengJeroni2
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="90f5234c-54ae-4284-a813-c600dbd8f872" tvg-name="Srandakan" group-title="ATCS_KOTA",Srandakan
+https://mam.jogjaprov.go.id:1937/atcs/Srandakan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5bf191f5-c807-442d-8f1b-c04eaca21640" tvg-name="SrandakanBarat" group-title="ATCS_KOTA",SrandakanBarat
+https://mam.jogjaprov.go.id:1937/atcs/SrandakanBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3a0e2e11-f9f8-40fb-b989-52dca1a1f170" tvg-name="SrandakanTimur" group-title="ATCS_KOTA",SrandakanTimur
+https://mam.jogjaprov.go.id:1937/atcs/SrandakanTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="64cb9f25-09d9-4d05-88e5-bba84d7886f5" tvg-name="Tamansari" group-title="ATCS_KOTA",Tamansari
+https://mam.jogjaprov.go.id:1937/atcs-kota/Tamansari.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1c724b22-20d8-44c0-83be-7a5f6f914469" tvg-name="Tempel1" group-title="ATCS_KOTA",Tempel1
+https://mam.jogjaprov.go.id:1937/atcs/Tempel1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="41328374-c6bc-44b8-bdd7-a5c5f4dee8ce" tvg-name="Tempel_TC" group-title="ATCS_KOTA",Tempel_TC
+https://mam.jogjaprov.go.id:1937/atcs/Tempel_TC.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8bd427c3-4c66-445c-909d-b3de6812a7af" tvg-name="Terban" group-title="ATCS_KOTA",Terban
+https://mam.jogjaprov.go.id:1937/atcs-kota/Terban.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="f15d579f-602e-460b-bdfb-34e2f905acca" tvg-name="Toyan" group-title="ATCS_KOTA",Toyan
+https://mam.jogjaprov.go.id:1937/atcs/Toyan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="f718e6f2-6be2-49ce-b601-2bf2660e90b7" tvg-name="Tugu2" group-title="ATCS_KOTA",Tugu2
+https://mam.jogjaprov.go.id:1937/atcs/Tugu2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="efce1149-48fe-48e3-9329-467c578f39ee" tvg-name="Tungkak" group-title="ATCS_KOTA",Tungkak
+https://mam.jogjaprov.go.id:1937/atcs-kota/Tungkak.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9a8c4d89-cdf3-4eca-a61d-7b70d5fb7550" tvg-name="Tunjung" group-title="ATCS_KOTA",Tunjung
+https://mam.jogjaprov.go.id:1937/atcs-kota/Tunjung.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d8bd7f33-9b2f-487a-ac5a-6a0c3010ad9e" tvg-name="UIN2" group-title="ATCS_KOTA",UIN2
+https://mam.jogjaprov.go.id:1937/atcs/UIN2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2790345a-f2b4-4170-9a1e-18edd9d2d318" tvg-name="UKDW" group-title="ATCS_KOTA",UKDW
+https://mam.jogjaprov.go.id:1937/atcs-kota/UKDW.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63b3484b-ad0d-42f3-8c87-a28ebda1122d" tvg-name="UST" group-title="ATCS_KOTA",UST
+https://mam.jogjaprov.go.id:1937/atcs-kota/UST.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="31295cc4-8cd3-4a90-9a76-f9495d336d36" tvg-name="Wardhani" group-title="ATCS_KOTA",Wardhani
+https://mam.jogjaprov.go.id:1937/atcs-kota/Wardhani.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d5c196f7-2977-4e63-a248-517503dd4e52" tvg-name="Warungboto1" group-title="ATCS_KOTA",Warungboto1
+https://mam.jogjaprov.go.id:1937/atcs-kota/Warungboto1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="83c989bb-49d1-4d7c-b711-ed56b196c7b8" tvg-name="Warungboto2" group-title="ATCS_KOTA",Warungboto2
+https://mam.jogjaprov.go.id:1937/atcs-kota/Warungboto2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="02e971cb-08ac-41b0-aca3-bf706a85fc82" tvg-name="Wirobrajan" group-title="ATCS_KOTA",Wirobrajan
+https://mam.jogjaprov.go.id:1937/atcs-kota/Wirobrajan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d00650b4-0c32-4ccd-940b-4b6b4f16affd" tvg-name="Wojo" group-title="ATCS_KOTA",Wojo
+https://mam.jogjaprov.go.id:1937/atcs/Wojo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6a0b1517-6638-47fa-8188-768bf622972c" tvg-name="YosSudarso" group-title="ATCS_KOTA",YosSudarso
+https://mam.jogjaprov.go.id:1937/atcs-kota/YosSudarso.stream/playlist.m3u8
+
+# ========== GUNUNGKIDUL ==========
+#EXTINF:-1 tvg-id="c38fb672-d0d4-4a18-b041-c9e5f844832c" tvg-name="ALUN_ALUN_PEMDA_GUNUNGKIDUL" group-title="GUNUNGKIDUL",ALUN_ALUN_PEMDA_GUNUNGKIDUL
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/ALUN_ALUN_PEMDA_GUNUNGKIDUL.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="52cc7389-2483-4692-8ee4-43854e9ec5b2" tvg-name="ALUN_ALUN_WONOSARI" group-title="GUNUNGKIDUL",ALUN_ALUN_WONOSARI
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/ALUN_ALUN_WONOSARI.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b1c93f8d-86e7-4fe9-b057-5d3c9ac99e36" tvg-name="BPP_PLAYEN" group-title="GUNUNGKIDUL",BPP_PLAYEN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/BPP_PLAYEN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cf6862b1-64cd-443d-aafe-44f250efcd36" tvg-name="BPP_SEMANU_BARAT" group-title="GUNUNGKIDUL",BPP_SEMANU_BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/BPP_SEMANU_BARAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9039197c-4c0a-4619-a3f1-2d6e5c816b5f" tvg-name="BPP_SEMANU_TIMUR" group-title="GUNUNGKIDUL",BPP_SEMANU_TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/BPP_SEMANU_TIMUR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4133281c-d409-4984-b80c-808bc427cf6f" tvg-name="BUNDERAN_KODIM" group-title="GUNUNGKIDUL",BUNDERAN_KODIM
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/BUNDERAN_KODIM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e7d3158e-45e3-4bb8-971e-9d09eaa24f88" tvg-name="BUNDERAN_PLN" group-title="GUNUNGKIDUL",BUNDERAN_PLN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/BUNDERAN_PLN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dec1d7c2-653c-4631-b7d5-14a68f73101f" tvg-name="BUNDERAN_SIYONO" group-title="GUNUNGKIDUL",BUNDERAN_SIYONO
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/BUNDERAN_SIYONO.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2f786ed9-4a84-4dd6-bffc-18e749e6b4a5" tvg-name="BUNDERAN_SIYONO_BARAT" group-title="GUNUNGKIDUL",BUNDERAN_SIYONO_BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/BUNDERAN_SIYONO_BARAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3c1c5a78-c9d9-4c0d-9a92-808dc040a6c4" tvg-name="BUNDERAN_SIYONO_TIMUR" group-title="GUNUNGKIDUL",BUNDERAN_SIYONO_TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/BUNDERAN_SIYONO_TIMUR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fa97f1f8-ba6d-41e4-9c17-176ce6323895" tvg-name="EMBUNG_BATARA_SRITEN" group-title="GUNUNGKIDUL",EMBUNG_BATARA_SRITEN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/EMBUNG_BATARA_SRITEN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5dc4faf9-f01c-454c-bfe1-d2356794fe5d" tvg-name="GOR_SIYONO" group-title="GUNUNGKIDUL",GOR_SIYONO
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/GOR_SIYONO.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="71031c1a-d4a8-47d5-89a1-cd388d1867f2" tvg-name="JJLS_PLANJAN" group-title="GUNUNGKIDUL",JJLS_PLANJAN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/JJLS_PLANJAN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8171ff6b-fcd9-451c-ada1-d5075b6cdc36" tvg-name="KALURAHAN_GETAS" group-title="GUNUNGKIDUL",KALURAHAN_GETAS
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/KALURAHAN_GETAS.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2ea92578-fb10-4105-a576-b3b9c65697ff" tvg-name="KALURAHAN_REJOSARI" group-title="GUNUNGKIDUL",KALURAHAN_REJOSARI
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/KALURAHAN_REJOSARI.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="47bd9ece-ea33-4e03-8c9f-1348ce12d4fc" tvg-name="KALURAHAN_SAMBIREJO" group-title="GUNUNGKIDUL",KALURAHAN_SAMBIREJO
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/KALURAHAN_SAMBIREJO.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="84d70ed2-e493-4759-b8f8-793d653ffd67" tvg-name="KAPANEWON_NGLIPAR_BARAT" group-title="GUNUNGKIDUL",KAPANEWON_NGLIPAR_BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/KAPANEWON_NGLIPAR_BARAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4dc4ef80-47eb-4f6e-85e0-cc993233309f" tvg-name="KAPANEWON_NGLIPAR_TIMUR" group-title="GUNUNGKIDUL",KAPANEWON_NGLIPAR_TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/KAPANEWON_NGLIPAR_TIMUR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="064fe906-11ec-49ef-bc62-53d5262b2bbe" tvg-name="KAPANEWON_RONGKOP_BARAT" group-title="GUNUNGKIDUL",KAPANEWON_RONGKOP_BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/KAPANEWON_RONGKOP_BARAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1843011a-6bb0-4374-af2f-f472f8f5b420" tvg-name="KAPANEWON_RONGKOP_TIMUR" group-title="GUNUNGKIDUL",KAPANEWON_RONGKOP_TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/KAPANEWON_RONGKOP_TIMUR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e99f1b79-dac5-4c48-8114-2a6b9fd2a31e" tvg-name="KAPANEWON_SEMIN_SELATAN" group-title="GUNUNGKIDUL",KAPANEWON_SEMIN_SELATAN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/KAPANEWON_SEMIN_SELATAN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="20f2cacc-c38b-47f4-8e4c-e6491cc22a3e" tvg-name="KAPANEWON_SEMIN_UTARA" group-title="GUNUNGKIDUL",KAPANEWON_SEMIN_UTARA
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/KAPANEWON_SEMIN_UTARA.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1608dff0-75c0-4bf2-b220-3fca98f4aa62" tvg-name="KODIM_GUNUNGKIDUL" group-title="GUNUNGKIDUL",KODIM_GUNUNGKIDUL
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/KODIM_GUNUNGKIDUL.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9c1757d3-e3ff-4ceb-a0a8-b01eaec5a059" tvg-name="LAPANGAN_KESATRIAN" group-title="GUNUNGKIDUL",LAPANGAN_KESATRIAN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/LAPANGAN_KESATRIAN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="076a6e55-c373-4b72-9b6f-1fcead4c95e8" tvg-name="LAPANGAN_PEMDA_BARAT" group-title="GUNUNGKIDUL",LAPANGAN_PEMDA_BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/LAPANGAN_PEMDA_BARAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4aef80e5-9622-4dc5-a338-08c57e224aa9" tvg-name="NGINGRONG_MULO" group-title="GUNUNGKIDUL",NGINGRONG_MULO
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/NGINGRONG_MULO.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="37837711-611b-4e99-ae71-3cc505f83155" tvg-name="PANTAI_BARON" group-title="GUNUNGKIDUL",PANTAI_BARON
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PANTAI_BARON.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="95466a8e-5b80-4a20-8502-634bc1f1c154" tvg-name="PANTAI_KUKUP" group-title="GUNUNGKIDUL",PANTAI_KUKUP
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PANTAI_KUKUP.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="612d1dc6-ee7a-484e-91b8-cc22f621b6fc" tvg-name="PANTAI_WEDIOMBO" group-title="GUNUNGKIDUL",PANTAI_WEDIOMBO
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PANTAI_WEDIOMBO.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="28c1d92b-d5a3-4fe4-a451-93fe03ee4501" tvg-name="PANTAI_WEDIOMBO_JALAN" group-title="GUNUNGKIDUL",PANTAI_WEDIOMBO_JALAN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PANTAI_WEDIOMBO_JALAN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="41ffc39c-b3fb-435a-a098-641da00a5cec" tvg-name="PASAR_ARGOSARI" group-title="GUNUNGKIDUL",PASAR_ARGOSARI
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PASAR_ARGOSARI.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d4f73ef4-0b6a-406b-9367-b45d368c5ef0" tvg-name="PINTU_MASUK_BARON_BARAT" group-title="GUNUNGKIDUL",PINTU_MASUK_BARON_BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PINTU_MASUK_BARON_BARAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3c431564-ff98-434f-bf00-4106baf35dab" tvg-name="PINTU_MASUK_BARON_BARAT_1" group-title="GUNUNGKIDUL",PINTU_MASUK_BARON_BARAT_1
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PINTU_MASUK_BARON_BARAT_1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9519cd8a-a6bb-40ed-abd9-5dc23886e6e2" tvg-name="PINTU_MASUK_BARON_BARAT_2" group-title="GUNUNGKIDUL",PINTU_MASUK_BARON_BARAT_2
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PINTU_MASUK_BARON_BARAT_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6acb1480-8cd7-493c-880b-acff0bef8025" tvg-name="PUSKESMAS_GEDANGSARI_II" group-title="GUNUNGKIDUL",PUSKESMAS_GEDANGSARI_II
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PUSKESMAS_GEDANGSARI_II.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="805b3689-d77e-4e7d-9fa3-76cfca251469" tvg-name="PUSKESMAS_NGAWEN_II" group-title="GUNUNGKIDUL",PUSKESMAS_NGAWEN_II
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PUSKESMAS_NGAWEN_II.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b06fcb19-e330-49b4-9ce6-b1cd6bb66c12" tvg-name="PUSKESMAS_PATUK_II" group-title="GUNUNGKIDUL",PUSKESMAS_PATUK_II
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PUSKESMAS_PATUK_II.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="47f5be8a-b1c3-47bd-898f-11a396add72b" tvg-name="PUSKESMAS_PONJONG_II" group-title="GUNUNGKIDUL",PUSKESMAS_PONJONG_II
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PUSKESMAS_PONJONG_II.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="79306217-e445-403d-9086-aeb46fc91df9" tvg-name="PUSKESWAN_PUTAT" group-title="GUNUNGKIDUL",PUSKESWAN_PUTAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PUSKESWAN_PUTAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6fd2e7b5-c767-4595-83d2-bd881355fd85" tvg-name="RUANG_TERBUKA_HIJAU_1_PATUK" group-title="GUNUNGKIDUL",RUANG_TERBUKA_HIJAU_1_PATUK
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/RUANG_TERBUKA_HIJAU_1_PATUK.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="192a3246-bb8a-48b9-ba10-ecf488b07240" tvg-name="RUANG_TERBUKA_HIJAU_2_PATUK" group-title="GUNUNGKIDUL",RUANG_TERBUKA_HIJAU_2_PATUK
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/RUANG_TERBUKA_HIJAU_2_PATUK.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4e15cfd2-3bed-4561-ab84-4b1a2b1038bc" tvg-name="RUANG_TERBUKA_HIJAU_3_PATUK" group-title="GUNUNGKIDUL",RUANG_TERBUKA_HIJAU_3_PATUK
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/RUANG_TERBUKA_HIJAU_3_PATUK.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="175f82c7-0c27-42f0-b086-fffb90a16d9c" tvg-name="SD_BARAN_2" group-title="GUNUNGKIDUL",SD_BARAN_2
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SD_BARAN_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aa451dd4-4243-45d3-aa32-7fd539d7c614" tvg-name="SD_KARANGREJEK_2" group-title="GUNUNGKIDUL",SD_KARANGREJEK_2
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SD_KARANGREJEK_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e5fa5bac-4ecb-4927-abf3-02d28b33ee15" tvg-name="SD_LOGANTUNG_2_SEMIN" group-title="GUNUNGKIDUL",SD_LOGANTUNG_2_SEMIN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SD_LOGANTUNG_2_SEMIN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3d264c42-21eb-4718-bf8b-e0152f3a2629" tvg-name="SD_PUCUNG" group-title="GUNUNGKIDUL",SD_PUCUNG
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SD_PUCUNG.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c43e231b-ab7b-4a7e-8824-29c96adb93ae" tvg-name="SD_TROWONO_1" group-title="GUNUNGKIDUL",SD_TROWONO_1
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SD_TROWONO_1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5ba3cc83-1afe-4f25-a0c2-450447a87916" tvg-name="SD_TROWONO_3" group-title="GUNUNGKIDUL",SD_TROWONO_3
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SD_TROWONO_3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9c47ee43-1a8f-4650-b23b-fbe34271458e" tvg-name="SIMPANG3_AMIGO" group-title="GUNUNGKIDUL",SIMPANG3_AMIGO
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG3_AMIGO.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7669a5b4-7f64-4d9d-9efb-f8d5e67f9291" tvg-name="SIMPANG3_BUNDER" group-title="GUNUNGKIDUL",SIMPANG3_BUNDER
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG3_BUNDER.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a3166c9b-bb70-4211-95b7-382749cec7bb" tvg-name="SIMPANG3_GADING_DOME" group-title="GUNUNGKIDUL",SIMPANG3_GADING_DOME
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG3_GADING_DOME.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7785a8a3-e6f6-4063-8cdd-62556943ece5" tvg-name="SIMPANG3_GADING_SELATAN" group-title="GUNUNGKIDUL",SIMPANG3_GADING_SELATAN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG3_GADING_SELATAN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ffc26b94-3bcd-437c-a00a-c26f68fffef3" tvg-name="SIMPANG3_GADING_UTARA" group-title="GUNUNGKIDUL",SIMPANG3_GADING_UTARA
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG3_GADING_UTARA.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cf1bdc4f-9eb9-4bef-b651-4552dd49c6c9" tvg-name="SIMPANG3_KEMADANG" group-title="GUNUNGKIDUL",SIMPANG3_KEMADANG
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG3_KEMADANG.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5b730a3e-f59d-41cd-9155-8b406d82cc06" tvg-name="SIMPANG3_NGAWEN_TIMUR" group-title="GUNUNGKIDUL",SIMPANG3_NGAWEN_TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG3_NGAWEN_TIMUR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63f44e83-c83d-4be3-b672-3011c6dafaef" tvg-name="SIMPANG3_NGAWEN_UTARA" group-title="GUNUNGKIDUL",SIMPANG3_NGAWEN_UTARA
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG3_NGAWEN_UTARA.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="091f7127-fb86-48dd-a8d3-9880cfe26045" tvg-name="SIMPANG3_PASAR_PLAYEN" group-title="GUNUNGKIDUL",SIMPANG3_PASAR_PLAYEN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG3_PASAR_PLAYEN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4cec768c-be98-4e9a-aa88-3f8d983f01f4" tvg-name="SIMPANG3_SD_NANAS" group-title="GUNUNGKIDUL",SIMPANG3_SD_NANAS
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG3_SD_NANAS.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="45910223-fbbe-4162-b081-05e0eb22835f" tvg-name="SIMPANG4_BALEHARJO_BARAT" group-title="GUNUNGKIDUL",SIMPANG4_BALEHARJO_BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_BALEHARJO_BARAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b536d349-8f0a-4b44-b1b9-94bfccfb9982" tvg-name="SIMPANG4_BALEHARJO_TIMUR" group-title="GUNUNGKIDUL",SIMPANG4_BALEHARJO_TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_BALEHARJO_TIMUR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6e4b4c67-1d0c-4a25-aa8a-dd5e086b7fa4" tvg-name="SIMPANG4_BUDEGAN_BARAT" group-title="GUNUNGKIDUL",SIMPANG4_BUDEGAN_BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_BUDEGAN_BARAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="54905c77-e027-437a-89a9-820adc473a22" tvg-name="SIMPANG4_BUDEGAN_DOME" group-title="GUNUNGKIDUL",SIMPANG4_BUDEGAN_DOME
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_BUDEGAN_DOME.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="80acd62d-e953-4f97-b468-f584e1534182" tvg-name="SIMPANG4_BUDEGAN_TIMUR" group-title="GUNUNGKIDUL",SIMPANG4_BUDEGAN_TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_BUDEGAN_TIMUR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="185ab907-61f4-4f5e-9187-192ec17d7e6c" tvg-name="SIMPANG4_GADING_SELATAN" group-title="GUNUNGKIDUL",SIMPANG4_GADING_SELATAN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_GADING_SELATAN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c5d42ecc-240e-4eb2-ab1a-4b238009d7de" tvg-name="SIMPANG4_GADING_TIMUR" group-title="GUNUNGKIDUL",SIMPANG4_GADING_TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_GADING_TIMUR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="761f3ccc-691d-4e16-9d4e-e8003f1cac8a" tvg-name="SIMPANG4_GADING_UTARA" group-title="GUNUNGKIDUL",SIMPANG4_GADING_UTARA
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_GADING_UTARA.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c2a61dd6-2691-49be-b580-ad9d2c16f47c" tvg-name="SIMPANG4_KARANGMOJO_BARAT" group-title="GUNUNGKIDUL",SIMPANG4_KARANGMOJO_BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_KARANGMOJO_BARAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3f60aff5-5fdf-44c2-8cf1-013a3a74bd49" tvg-name="SIMPANG4_KARANGMOJO_TIMUR" group-title="GUNUNGKIDUL",SIMPANG4_KARANGMOJO_TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_KARANGMOJO_TIMUR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e22a6d5e-8ddc-4dc1-910a-f7be96ef97a1" tvg-name="SIMPANG4_MUNGGI_BARAT" group-title="GUNUNGKIDUL",SIMPANG4_MUNGGI_BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_MUNGGI_BARAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="846c2046-28c2-4b80-b978-791a75180fd9" tvg-name="SIMPANG4_MUNGGI_TIMUR" group-title="GUNUNGKIDUL",SIMPANG4_MUNGGI_TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_MUNGGI_TIMUR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="807b2c81-017a-4721-9b04-e855037b7841" tvg-name="SIMPANG4_NGALANG_BARAT" group-title="GUNUNGKIDUL",SIMPANG4_NGALANG_BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_NGALANG_BARAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bbb08695-0e97-4218-b88a-629596928089" tvg-name="SIMPANG4_NGALANG_TIMUR" group-title="GUNUNGKIDUL",SIMPANG4_NGALANG_TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_NGALANG_TIMUR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fa361646-7c56-49ec-927f-2d48a9d51746" tvg-name="SIMPANG4_PANCURAN" group-title="GUNUNGKIDUL",SIMPANG4_PANCURAN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_PANCURAN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a04b479a-4a0d-44dd-ab3a-f398694a9e4a" tvg-name="SIMPANG4_PATUK" group-title="GUNUNGKIDUL",SIMPANG4_PATUK
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_PATUK.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="74288ee2-f338-4599-b573-45ef0080f45a" tvg-name="SIMPANG4_RSUD_WONOSARI" group-title="GUNUNGKIDUL",SIMPANG4_RSUD_WONOSARI
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_RSUD_WONOSARI.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3bb00913-2a80-49fb-aa2c-3076dec531e3" tvg-name="SIMPANG4_SELANG_BARAT" group-title="GUNUNGKIDUL",SIMPANG4_SELANG_BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_SELANG_BARAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="56fad92f-4beb-47fe-ace8-7731e602c45b" tvg-name="SIMPANG4_SELANG_TIMUR" group-title="GUNUNGKIDUL",SIMPANG4_SELANG_TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_SELANG_TIMUR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fc06abcd-12e2-48cd-ba5f-317f71050f9f" tvg-name="SIMPANG4_TEGALSARI_BARAT" group-title="GUNUNGKIDUL",SIMPANG4_TEGALSARI_BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_TEGALSARI_BARAT.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="510e97d7-76a4-4712-8562-309f3a818573" tvg-name="SIMPANG4_TEGALSARI_TIMUR" group-title="GUNUNGKIDUL",SIMPANG4_TEGALSARI_TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG4_TEGALSARI_TIMUR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="485910c8-c224-4e31-8a57-5ca3c82b07ff" tvg-name="SMP_1_TANJUNGAN" group-title="GUNUNGKIDUL",SMP_1_TANJUNGAN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SMP_1_TANJUNGAN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="f907939d-84c6-4e87-8458-4b802b1619a2" tvg-name="SMP_2_PALIYAN" group-title="GUNUNGKIDUL",SMP_2_PALIYAN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SMP_2_PALIYAN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9acda246-61d7-49ef-8c22-040ec03b1c1d" tvg-name="SMP_3_WONOSARI" group-title="GUNUNGKIDUL",SMP_3_WONOSARI
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SMP_3_WONOSARI.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5a2153b6-306e-4a6c-951e-9abf634fc4d1" tvg-name="SMP_PLAYEN" group-title="GUNUNGKIDUL",SMP_PLAYEN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SMP_PLAYEN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e2455f6e-0b3d-4b1f-b44f-08e1573b1c47" tvg-name="TERMINAL_SEMIN" group-title="GUNUNGKIDUL",TERMINAL_SEMIN
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/TERMINAL_SEMIN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4b31b514-406e-4ddb-bce7-83e534ef98f8" tvg-name="TPR_PANTAI_BARON" group-title="GUNUNGKIDUL",TPR_PANTAI_BARON
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/TPR_PANTAI_BARON.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="f2a269cf-65bd-4735-bc9b-35dbfdf2b5c4" tvg-name="TPR_PANTAI_BARON_1" group-title="GUNUNGKIDUL",TPR_PANTAI_BARON_1
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/TPR_PANTAI_BARON_1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fce0c229-262b-4cf4-abfb-63f01f7be75a" tvg-name="TPR_PANTAI_BARON_2" group-title="GUNUNGKIDUL",TPR_PANTAI_BARON_2
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/TPR_PANTAI_BARON_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bef29ea4-44d6-4f52-b7d1-09ce430a21f0" tvg-name="TUGU_SELAMAT_DATANG_PATUK" group-title="GUNUNGKIDUL",TUGU_SELAMAT_DATANG_PATUK
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/TUGU_SELAMAT_DATANG_PATUK.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3501dfd2-0bcf-493b-84d8-f981370f9931" tvg-name="TUGU_SELAMAT_DATANG_PATUK_2" group-title="GUNUNGKIDUL",TUGU_SELAMAT_DATANG_PATUK_2
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/TUGU_SELAMAT_DATANG_PATUK_2.stream/playlist.m3u8
+
+# ========== KEPOLISIAN ==========
+#EXTINF:-1 tvg-id="a2e590b2-f345-4605-bb56-ade3f05fa774" tvg-name="AirMancur" group-title="KEPOLISIAN",AirMancur
+https://mam.jogjaprov.go.id:1937/cctv-kp/AirMancur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c1dd5481-04ec-4bd9-9cd2-961ce6551b4b" tvg-name="AlunAlunUtara1" group-title="KEPOLISIAN",AlunAlunUtara1
+https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunUtara1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7835a89d-cd07-4bc8-a2ab-96adcd4a13e2" tvg-name="HalamanMediaCenter" group-title="KEPOLISIAN",HalamanMediaCenter
+https://mam.jogjaprov.go.id:1937/cctv-kp/HalamanMediaCenter.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="afb68e12-018c-43a9-b721-f9d5ee3976bc" tvg-name="HalamanPemda" group-title="KEPOLISIAN",HalamanPemda
+https://mam.jogjaprov.go.id:1937/cctv-kp/HalamanPemda.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16906867-edde-4ac5-8177-f7fde1c14371" tvg-name="Karangnongko" group-title="KEPOLISIAN",Karangnongko
+https://mam.jogjaprov.go.id:1937/cctv-kp/Karangnongko.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b2c611cf-efc6-4694-981d-8589d9fa0aab" tvg-name="LabKes" group-title="KEPOLISIAN",LabKes
+https://mam.jogjaprov.go.id:1937/cctv-kp/LabKes.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7658faa4-cec5-489d-8cf6-88ba9c220b74" tvg-name="LapanganBasket" group-title="KEPOLISIAN",LapanganBasket
+https://mam.jogjaprov.go.id:1937/cctv-kp/LapanganBasket.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ead103d5-2329-48ce-a77c-73c729d33206" tvg-name="PojokTamanBermain" group-title="KEPOLISIAN",PojokTamanBermain
+https://mam.jogjaprov.go.id:1937/cctv-kp/PojokTamanBermain.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4714d14f-b5a4-4812-a30a-ab2299a340bd" tvg-name="RBRA" group-title="KEPOLISIAN",RBRA
+https://mam.jogjaprov.go.id:1937/cctv-kp/RBRA.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="941d00f0-6361-45b6-bf66-2f5f4d702c47" tvg-name="TamanPemda" group-title="KEPOLISIAN",TamanPemda
+https://mam.jogjaprov.go.id:1937/cctv-kp/TamanPemda.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="986a8af1-8ff7-4fe4-a9c3-fa8ef80141e8" tvg-name="Terminal" group-title="KEPOLISIAN",Terminal
+https://mam.jogjaprov.go.id:1937/cctv-kp/Terminal.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8b7d9d30-6184-47a0-8f12-579b93ad371d" tvg-name="TetegKulon" group-title="KEPOLISIAN",TetegKulon
+https://mam.jogjaprov.go.id:1937/cctv-kp/TetegKulon.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bffc4142-bd45-412d-b43e-b788643a409a" tvg-name="TetegWetan" group-title="KEPOLISIAN",TetegWetan
+https://mam.jogjaprov.go.id:1937/cctv-kp/TetegWetan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="648bfe78-32e0-418b-bf9a-1cb6e1a80d9a" tvg-name="WanaWil" group-title="KEPOLISIAN",WanaWil
+https://mam.jogjaprov.go.id:1937/cctv-kp/WanaWil.stream/playlist.m3u8
+
+# ========== KOMINFO ==========
+#EXTINF:-1 tvg-id="f863e27a-1e6a-49d2-913b-5fcdf281d8c1" tvg-name="AmbarukmoPlazaBarat" group-title="KOMINFO",AmbarukmoPlazaBarat
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/AmbarukmoPlazaBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="00b71554-8b44-4ce7-91d7-3b049805d3c7" tvg-name="AmbarukmoPlazaTimur" group-title="KOMINFO",AmbarukmoPlazaTimur
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/AmbarukmoPlazaTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9c37595e-baa5-4b75-9750-43993cd40b52" tvg-name="Bundaran_UGM1" group-title="KOMINFO",Bundaran_UGM1
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Bundaran_UGM1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="37e36f08-c77b-436a-a601-72238f4c2fef" tvg-name="Bundaran_UGM2" group-title="KOMINFO",Bundaran_UGM2
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Bundaran_UGM2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="f2b871e6-77df-49d6-9f5a-62c45560d7c4" tvg-name="Bundaran_UGM3" group-title="KOMINFO",Bundaran_UGM3
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Bundaran_UGM3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ede2247f-8233-493b-9101-f233bf85fc84" tvg-name="FlyOver_JomborBarat" group-title="KOMINFO",FlyOver_JomborBarat
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="81695700-8dd3-48bb-b4c4-e6a22fb6adfe" tvg-name="FlyOver_JomborTimur" group-title="KOMINFO",FlyOver_JomborTimur
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9b7dc674-9236-4ef8-b990-f0115a388196" tvg-name="FlyOver_JomborUtara" group-title="KOMINFO",FlyOver_JomborUtara
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborUtara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="27848404-8102-42ac-b816-81df1b20b4af" tvg-name="Perempatan_Beran1" group-title="KOMINFO",Perempatan_Beran1
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Beran1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="f20acbed-b80f-4d1e-ae2f-7a825cd9d8cf" tvg-name="Perempatan_Condongcatur" group-title="KOMINFO",Perempatan_Condongcatur
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Condongcatur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7973f277-bf0b-4cf6-a6c8-ad650d7c37b3" tvg-name="Perempatan_DemakIjo1" group-title="KOMINFO",Perempatan_DemakIjo1
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_DemakIjo1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="f048c42c-7076-467e-9bc9-52cfcf827a20" tvg-name="Perempatan_DemakIjo2" group-title="KOMINFO",Perempatan_DemakIjo2
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_DemakIjo2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2a6cc88a-4cfe-4b39-a23f-98334e8ef978" tvg-name="Perempatan_DemakIjo3" group-title="KOMINFO",Perempatan_DemakIjo3
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_DemakIjo3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d6451835-1d7b-4b3f-96f0-607929d42e3e" tvg-name="Perempatan_Godean1" group-title="KOMINFO",Perempatan_Godean1
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Godean1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="80fe5d82-9573-427b-ba36-2af280a6287b" tvg-name="Perempatan_Godean2" group-title="KOMINFO",Perempatan_Godean2
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Godean2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a3dbfa95-0ccf-45de-be9b-67b8d5f19cee" tvg-name="Perempatan_Kronggahan" group-title="KOMINFO",Perempatan_Kronggahan
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Kronggahan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="345fc8b2-0ee1-459a-85cd-28b4c6cffec1" tvg-name="Perempatan_Monjali" group-title="KOMINFO",Perempatan_Monjali
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Monjali.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c47187a9-93c5-4a6f-930e-799314acbfb9" tvg-name="Perempatan_Munggur1" group-title="KOMINFO",Perempatan_Munggur1
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Munggur1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="143d4e97-5c89-42e6-9b8f-3a5b764f1b98" tvg-name="Perempatan_Munggur2" group-title="KOMINFO",Perempatan_Munggur2
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Munggur2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="17891f49-3377-4f1c-8468-784c3ed9b5c5" tvg-name="Perempatan_Pelemgurih1" group-title="KOMINFO",Perempatan_Pelemgurih1
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Pelemgurih1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="58a85001-5091-47eb-b18d-866461ac3dde" tvg-name="Perempatan_Pelemgurih2" group-title="KOMINFO",Perempatan_Pelemgurih2
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Pelemgurih2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a2899b09-b505-43bc-944d-762ca01edfa9" tvg-name="Perempatan_Pelemgurih3" group-title="KOMINFO",Perempatan_Pelemgurih3
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Pelemgurih3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="654b69f2-4bc6-4433-a16a-73aa6beb7716" tvg-name="Perempatan_Seyegan" group-title="KOMINFO",Perempatan_Seyegan
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Seyegan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a3dbc723-c44a-4ac7-9655-b750f7ddb89e" tvg-name="Perempatan_Tempel1" group-title="KOMINFO",Perempatan_Tempel1
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Tempel1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="78348610-055c-4fa6-8d21-1bfae45f6a68" tvg-name="Perempatan_Tempel2" group-title="KOMINFO",Perempatan_Tempel2
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Tempel2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cd15cbd7-0493-4da0-a39f-774cb7fd66f2" tvg-name="Perempatan_UPN1" group-title="KOMINFO",Perempatan_UPN1
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_UPN1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4da94368-4ad6-48bb-9282-2938e572f5c3" tvg-name="Perempatan_UPN2" group-title="KOMINFO",Perempatan_UPN2
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_UPN2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e1091817-13a5-42f4-bfd1-8e1035b07eee" tvg-name="Pertigaan_Bantulan1" group-title="KOMINFO",Pertigaan_Bantulan1
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Pertigaan_Bantulan1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a4da3b1a-e8bb-490f-853f-52e8da9d7f4e" tvg-name="Pertigaan_Bantulan2" group-title="KOMINFO",Pertigaan_Bantulan2
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Pertigaan_Bantulan2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c104b7e0-8c3c-43f6-82ba-a104bfaaa5b5" tvg-name="Pertigaan_Maguwo1" group-title="KOMINFO",Pertigaan_Maguwo1
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Pertigaan_Maguwo1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ad2bd724-cb22-4923-a7d5-ab86d22a3262" tvg-name="Pertigaan_Maguwo2" group-title="KOMINFO",Pertigaan_Maguwo2
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Pertigaan_Maguwo2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="19458f58-e656-43c9-803f-d702f423fcef" tvg-name="Pertigaan_Maguwo3" group-title="KOMINFO",Pertigaan_Maguwo3
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Pertigaan_Maguwo3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e7754069-ce7b-4c69-86bd-0e82ccbcaad7" tvg-name="Pertigaan_Minggir" group-title="KOMINFO",Pertigaan_Minggir
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Pertigaan_Minggir.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ee52a323-a52e-4566-9afd-dbddf62d1a2c" tvg-name="Pertigaan_PasarGamping" group-title="KOMINFO",Pertigaan_PasarGamping
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Pertigaan_PasarGamping.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="035a844e-2470-4d92-ad58-2b3ec53644f0" tvg-name="Pertigaan_PasarPrambanan" group-title="KOMINFO",Pertigaan_PasarPrambanan
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Pertigaan_PasarPrambanan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c6e7d1e2-f159-4b7e-ac94-078fc9af58d8" tvg-name="Pertigaan_UIN" group-title="KOMINFO",Pertigaan_UIN
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Pertigaan_UIN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d5a030c8-2de2-4834-b70e-28f91a676aef" tvg-name="PosPolisi_Jombor" group-title="KOMINFO",PosPolisi_Jombor
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/PosPolisi_Jombor.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3239303e-415c-4c5b-8b96-0b86013c40a9" tvg-name="Proliman_Prambanan1" group-title="KOMINFO",Proliman_Prambanan1
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Proliman_Prambanan1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c918f354-1f34-4a84-b8af-3de49fe9de6c" tvg-name="Proliman_Prambanan2" group-title="KOMINFO",Proliman_Prambanan2
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Proliman_Prambanan2.stream/playlist.m3u8
+
+# ========== LAINNYA ==========
+#EXTINF:-1 tvg-id="c6b58bef-d67f-4416-9626-58e6975aade0" tvg-name="BunderanSrandakan" group-title="LAINNYA",BunderanSrandakan
+https://mam.jogjaprov.go.id:1937/cctv-bantul/BunderanSrandakan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="17ea40d5-ca6a-452d-88e5-9e39cef22200" tvg-name="KaliGajahWong1" group-title="LAINNYA",KaliGajahWong1
+https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliGajahWong1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5094b610-0861-4b40-be3d-a14bd9e457ed" tvg-name="KaliGajahWong2" group-title="LAINNYA",KaliGajahWong2
+https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliGajahWong2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b2e2d09a-4efe-48ef-8187-0094b063c89f" tvg-name="KaliNgentak" group-title="LAINNYA",KaliNgentak
+https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliNgentak.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="373b8839-0064-4988-a84d-339864c70d7e" tvg-name="KaliWinongo" group-title="LAINNYA",KaliWinongo
+https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliWinongo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="59a2feb1-b385-48b3-9ef7-8be95007af62" tvg-name="MakamImogiriSapitUrang" group-title="LAINNYA",MakamImogiriSapitUrang
+https://mam.jogjaprov.go.id:1937/cctv-bantul/MakamImogiriSapitUrang.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="46d309db-e003-4d8a-9c4a-166ea1aead7a" tvg-name="MakamImogiriViewParkirUtara" group-title="LAINNYA",MakamImogiriViewParkirUtara
+https://mam.jogjaprov.go.id:1937/cctv-bantul/MakamImogiriViewParkirUtara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0ffa7481-2169-4f63-85d3-08dc09d766ae" tvg-name="MakamKotagedeMasjid" group-title="LAINNYA",MakamKotagedeMasjid
+https://mam.jogjaprov.go.id:1937/cctv-bantul/MakamKotagedeMasjid.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="718fdd87-e410-4149-86e9-b306b92749bb" tvg-name="MakamKotagedeParkiran" group-title="LAINNYA",MakamKotagedeParkiran
+https://mam.jogjaprov.go.id:1937/cctv-bantul/MakamKotagedeParkiran.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d8cfbaed-4440-4b8f-9a1c-832dc982fd67" tvg-name="PasarBantul" group-title="LAINNYA",PasarBantul
+https://mam.jogjaprov.go.id:1937/cctv-bantul/PasarBantul.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5b5c361c-8d94-43a8-9304-bf6e906213c7" tvg-name="SimpangKolombo1" group-title="LAINNYA",SimpangKolombo1
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangKolombo1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4e9cb5bc-45fc-40cd-b288-391c4ec844c1" tvg-name="SimpangKolombo2" group-title="LAINNYA",SimpangKolombo2
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangKolombo2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="550e15c1-3376-4b2f-9d79-537d2bed4dfd" tvg-name="SimpangPamungkas" group-title="LAINNYA",SimpangPamungkas
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangPamungkas.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="148b0d97-b75b-4042-aad4-210ae8de70f6" tvg-name="SimpangPasarStan" group-title="LAINNYA",SimpangPasarStan
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangPasarStan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="f3326dce-1a8c-4e1a-8013-eb46f86ed8f5" tvg-name="SimpangPasebanUtara" group-title="LAINNYA",SimpangPasebanUtara
+https://mam.jogjaprov.go.id:1937/cctv-bantul/SimpangPasebanUtara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c5af9c42-f680-47b5-8a24-5edb2b85f246" tvg-name="SimpangSantikara2" group-title="LAINNYA",SimpangSantikara2
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangSantikara2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c9d65dba-6f56-4411-a293-233d074102b6" tvg-name="SimpangTajem" group-title="LAINNYA",SimpangTajem
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangTajem.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="064ca0a1-e321-4304-9d84-139691e7402f" tvg-name="SimpangUNY" group-title="LAINNYA",SimpangUNY
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangUNY.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="79f33017-0dd5-4423-aa33-5cd4821999ac" tvg-name="TPRParangtritis" group-title="LAINNYA",TPRParangtritis
+https://mam.jogjaprov.go.id:1937/cctv-bantul/TPRParangtritis.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="26714801-24a1-4a73-a68a-4d7b51e24f4b" tvg-name="UPTMalio10_Kepatihan" group-title="LAINNYA",UPTMalio10_Kepatihan
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio10_Kepatihan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6cd268d6-7bd9-428a-9bd2-3647f8cc6ccc" tvg-name="UPTMalio11_TerangBulan" group-title="LAINNYA",UPTMalio11_TerangBulan
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio11_TerangBulan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fb48c633-83e0-4ddc-9f13-3630b3ffe73d" tvg-name="UPTMalio12_Ramayana" group-title="LAINNYA",UPTMalio12_Ramayana
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio12_Ramayana.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="01397436-122c-4b6c-8096-32267c026caa" tvg-name="UPTMalio13_GunungMas" group-title="LAINNYA",UPTMalio13_GunungMas
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio13_GunungMas.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="789c5ca9-6979-4dc4-a011-7c0b875a16aa" tvg-name="UPTMalio1_SelatanTeteg" group-title="LAINNYA",UPTMalio1_SelatanTeteg
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio1_SelatanTeteg.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9d5525da-29a2-465c-bea2-70fc98637dea" tvg-name="UPTMalio21_UtaraInnaGaruda" group-title="LAINNYA",UPTMalio21_UtaraInnaGaruda
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio21_UtaraInnaGaruda.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="74c13d6f-63be-4cc3-aabe-cd9df0a52518" tvg-name="UPTMalio22_SimpangPajeksan" group-title="LAINNYA",UPTMalio22_SimpangPajeksan
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio22_SimpangPajeksan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c01734bb-1396-476d-ab8b-235d33f25dc3" tvg-name="UPTMalio23_Depan_BPD_Kepatihan" group-title="LAINNYA",UPTMalio23_Depan_BPD_Kepatihan
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio23_Depan_BPD_Kepatihan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="69c956e7-2ab5-4a5e-8cca-ac65e7c4b332" tvg-name="UPTMalio24_SimpangReksobayan" group-title="LAINNYA",UPTMalio24_SimpangReksobayan
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio24_SimpangReksobayan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b3d200ef-718d-4135-8ca9-d6c2037f2ede" tvg-name="UPTMalio25_UtaraMall" group-title="LAINNYA",UPTMalio25_UtaraMall
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio25_UtaraMall.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="832c3847-6dff-4182-b5f5-7677b3109b63" tvg-name="UPTMalio2_DepanTokoSubur" group-title="LAINNYA",UPTMalio2_DepanTokoSubur
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio2_DepanTokoSubur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c7a14dfd-ea43-488c-840d-9e68fc3d3887" tvg-name="UPTMalio30_Beringharjo" group-title="LAINNYA",UPTMalio30_Beringharjo
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio30_Beringharjo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d63a1264-72d2-4308-8082-c355d84137e0" tvg-name="UPTMalio3_DepanDispar" group-title="LAINNYA",UPTMalio3_DepanDispar
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio3_DepanDispar.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d8432f05-a44d-467f-ae9c-f1819180c42a" tvg-name="UPTMalio4_DepanDPRD" group-title="LAINNYA",UPTMalio4_DepanDPRD
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio4_DepanDPRD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="34caa256-fc9d-434b-a5eb-38bf44d49f1e" tvg-name="UPTMalio5_Perwakilan" group-title="LAINNYA",UPTMalio5_Perwakilan
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio5_Perwakilan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="62d26fb1-76c1-45d7-8b33-a25d50a62815" tvg-name="UPTMalio6_MallUtara" group-title="LAINNYA",UPTMalio6_MallUtara
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio6_MallUtara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="876e93c3-990d-47e8-a86e-881abfc48980" tvg-name="UPTMalio7_MallSelatan" group-title="LAINNYA",UPTMalio7_MallSelatan
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio7_MallSelatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="20ffe77a-be68-45c0-b0b1-e57e8c288184" tvg-name="UPTMalio8_MutiaraLama" group-title="LAINNYA",UPTMalio8_MutiaraLama
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio8_MutiaraLama.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7a7a75b8-00e5-4331-bb15-15b37eda4fc9" tvg-name="UPTMalio9_MutiaraBaru" group-title="LAINNYA",UPTMalio9_MutiaraBaru
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio9_MutiaraBaru.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d80056c0-c02b-48d5-82af-7793ec993247" tvg-name="UPTMalio_NolKmGedungAgung" group-title="LAINNYA",UPTMalio_NolKmGedungAgung
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio_NolKmGedungAgung.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="37ba47dd-12dd-481e-bcf8-87780b269409" tvg-name="UPTMalio_NolKmUtara" group-title="LAINNYA",UPTMalio_NolKmUtara
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio_NolKmUtara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6e155538-1386-400c-9b45-37be69a49bf0" tvg-name="UPTMalio_NolKm_Timur" group-title="LAINNYA",UPTMalio_NolKm_Timur
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio_NolKm_Timur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a6950312-c90a-4a58-a4fe-7efa117af37c" tvg-name="ViewAlunAlunKidul" group-title="LAINNYA",ViewAlunAlunKidul
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6c1ac7a9-0620-4f3e-b755-6a9334e3a25f" tvg-name="ViewBaron" group-title="LAINNYA",ViewBaron
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBaron.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c7f3b83c-b8d7-4c35-b503-645b68d77051" tvg-name="ViewBreksi" group-title="LAINNYA",ViewBreksi
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5b451ec3-7d39-4ce3-9a03-3f7aa620ba81" tvg-name="ViewBukitKlangon" group-title="LAINNYA",ViewBukitKlangon
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBukitKlangon.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e18c7123-ea68-4f9b-8499-f38308874dbf" tvg-name="ViewCandiBoko" group-title="LAINNYA",ViewCandiBoko
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiBoko.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="28c4f9db-d882-4933-a947-e4036e1350e9" tvg-name="ViewCandiIjo" group-title="LAINNYA",ViewCandiIjo
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiIjo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ddd622f0-8082-448d-b68a-9da5e5fb8431" tvg-name="ViewCandiPrambanan" group-title="LAINNYA",ViewCandiPrambanan
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="72ed1df3-c136-423b-a70f-e141f378fef0" tvg-name="ViewCandiSambisari" group-title="LAINNYA",ViewCandiSambisari
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiSambisari.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="976c37c0-243c-4528-be33-42ee80c69620" tvg-name="ViewDepanBeringharjo" group-title="LAINNYA",ViewDepanBeringharjo
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="daa9681a-c3e2-4617-8523-dea6d253cd2f" tvg-name="ViewDepanGaruda" group-title="LAINNYA",ViewDepanGaruda
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2b573756-b871-433a-9dee-85c15984865c" tvg-name="ViewDepanMall" group-title="LAINNYA",ViewDepanMall
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61fe1fea-2232-4410-ad3b-d421d5f5b300" tvg-name="ViewGunungMerapi" group-title="LAINNYA",ViewGunungMerapi
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c03f94a1-cf27-4001-816d-84ad97136f8a" tvg-name="ViewMangunan" group-title="LAINNYA",ViewMangunan
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f37707d-6d4f-457b-b1a7-7b0e1877797b" tvg-name="ViewNglanggeran" group-title="LAINNYA",ViewNglanggeran
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="82182e34-7b3c-40a0-a5fd-af554d55e5ad" tvg-name="ViewNolKilo" group-title="LAINNYA",ViewNolKilo
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c7683435-63b2-4981-97c2-e4de6f589a52" tvg-name="ViewPandansari" group-title="LAINNYA",ViewPandansari
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewPandansari.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e420674c-3285-4e60-aec2-f9c3a7b3320e" tvg-name="ViewParangtritis" group-title="LAINNYA",ViewParangtritis
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewParangtritis.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="daeeaab5-3293-44f8-a83e-35d97260135a" tvg-name="ViewSadeng" group-title="LAINNYA",ViewSadeng
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewSadeng.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="97d43bfd-c836-43e5-a902-e8782e239a44" tvg-name="ViewSimpangTugu" group-title="LAINNYA",ViewSimpangTugu
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="87069876-3501-45dd-8d42-b6252fa03878" tvg-name="ViewStasiunTugu" group-title="LAINNYA",ViewStasiunTugu
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0144376c-328b-4bfa-91c1-da6f03c4c01a" tvg-name="ViewTambakboyo" group-title="LAINNYA",ViewTambakboyo
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewTambakboyo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="74cd71c7-5fa1-478d-8017-c710be4bbd7d" tvg-name="ViewTugu" group-title="LAINNYA",ViewTugu
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewTugu.stream/playlist.m3u8
+
