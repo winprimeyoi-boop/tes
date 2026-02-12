@@ -1,0 +1,398 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/tnt-sports-1.png",TNT Sports 1
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/tnt-sports-2.png",TNT Sports 2
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/tnt-sports-3.png",TNT Sports 3
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/tnt-sports-4.png",TNT Sports 4
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/itv1.png",ITV 1
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/itv2.png",ITV 2
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/itv3.png",ITV 3
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/itv4.png",ITV 4
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/10/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 11
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/sky-cinema.svg.png",Sky Cinema Comedy
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/14/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/sky-family.svg.png",Sky Cinema Family
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/15/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/sky-sports-action.png",Sky Sports Action
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/16/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/sky-sports-arena.png",Sky Sports Arena
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/17/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/sky-sports-cricket.png",Sky Sports Cricket
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/sky-sports-events.png",Sky Sports Main Events
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/20/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/sky-sports-football.png",Sky Sports Football
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/22/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/sky-sports-golf.png",Sky Sports Golf
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/23/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/sky-sports-league.svg",Sky Sports League
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/sky-sports-mix.png",Sky Sports Mix
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/25/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/sky-sports-racing.png",Sky Sports News
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/26/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/sky-sports-league.svg",Sky Sports Racing
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/27/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/discover.png",Sky Sports Tennis
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/28/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/sky-sports-league.svg",Discovery
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/54/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/premier-sports-1.png",Premier Sports 1
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/62/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/premier-sports-2.png",Premier Sports 2
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/63/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2233
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2233/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2337
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2337/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/bbc-news.png",BBC News
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2420/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/bbc2.png",BBC2
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2443/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2444
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2444/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/bbc-one.png",BBC ONE
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2445/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/boomerang.png",Boomerang
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2446/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.antsports.tv/tvlogo/film4.png",Film4
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2447/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2667
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2667/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2695
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2695/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2697
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2697/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2698
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2698/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2699
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2699/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2700
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2700/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2701
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2701/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2711
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2711/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2716
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2716/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2718
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2718/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2719
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2719/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2720
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2720/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2721
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2721/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2724
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2724/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2825
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2825/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2826
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2826/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2828
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2828/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2829
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2829/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2831
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2831/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2832
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2832/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2833
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2833/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2853
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2853/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2855
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2855/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2856
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2856/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2857
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2857/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2858
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2858/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2859
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2859/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2860
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2860/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2892
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2892/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2895
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2895/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2976
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2976/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2977
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2977/index.m3u8
+
+#EXTINF:-1,Wins Sports TV 2981
+#EXTVLCOPT:http-origin=https://antsports.tv
+#EXTVLCOPT:http-referrer=https://antsports.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Series40; NokiaC3-00/08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+https://v.antsports.tv/live/2981/index.m3u8
+
